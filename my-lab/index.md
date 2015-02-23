@@ -11,11 +11,11 @@ layout: page
   </p>
 </div>
 
-I am a member of [Prof. Mark Bellgrove&#8217;s][1] group at the School of Psychological Sciences, Monash University. I mostly work from our EEG/eye-tracking lab, though we also have a fully equipped human molecular genetics lab. We perform our MRI acquisition at [Monash Biomedical Imaging (MBI)][2]. My research involves strong collaborative ties with [Dr Redmond O’Connell][3] from the Trinity College Institute of Neuroscience and [Ger Loughnane][4]  from the Trinity Centre for Bioengineering.
+I am a member of [Prof. Mark Bellgrove’s][1] group at the School of Psychological Sciences, Monash University. I mostly work from our EEG/eye-tracking lab, though we also have a fully equipped human molecular genetics lab. We perform our MRI acquisition at [Monash Biomedical Imaging (MBI)][2]. My research involves strong collaborative ties with [Dr Redmond O’Connell][3] from the Trinity College Institute of Neuroscience and [Ger Loughnane][4]  from the Trinity Centre for Bioengineering.
 
 I am always looking for willing volunteers to participate in my experiments, if you are interested in this please [contact me!][5]
 
-My PhD supervisors are [Prof. Mark Bellgrove][1] (Monash University) and [Dr Redmond O’Connell ][3](Trinity College Dublin)
+My PhD supervisors are [Prof. Mark Bellgrove][1] (Monash University) and [Dr Redmond O’Connell ][3](Trinity College Dublin)
 
 <div id="attachment_113" style="width: 650px" class="wp-caption alignright">
   <a href="http://dpnewman.com/wp-content/uploads/2013/06/both2.png"><img class=" wp-image-113  " alt="both" src="http://dpnewman.com/wp-content/uploads/2013/06/both2.png?w=640" width="640" height="213" /></a>
