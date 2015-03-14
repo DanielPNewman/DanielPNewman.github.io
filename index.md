@@ -1,7 +1,5 @@
 ---
 layout: page
-switch_like_status:
-  - 1
 ---
 {% include figure.html src="public/images/2013/02/2013-02-10-14-19-00.jpg" %}
 
