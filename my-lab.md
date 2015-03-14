@@ -1,5 +1,6 @@
 ---
 title: Lab
+permalink: /my-lab/
 layout: page
 ---
 <div id="attachment_85" style="width: 234px" class="wp-caption alignright">

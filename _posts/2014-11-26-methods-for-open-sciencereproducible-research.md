@@ -1,7 +1,6 @@
 ---
 title: Methods for Open Science/Reproducible Research
 layout: post
-permalink: /methods-for-open-sciencereproducible-research/
 categories:
   - Uncategorized
 ---

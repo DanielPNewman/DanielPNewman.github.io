@@ -1,5 +1,6 @@
 ---
 title: Currently Reading
+permalink: /currently-reading/
 layout: page
 ---
 <span style="font-size:medium;"><span style="line-height:24px;">A list of books I’m enjoying, and have enjoyed reading in the past:</span></span>
