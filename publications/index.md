@@ -1,6 +1,5 @@
 ---
 title: Publications
-author: Dan Newman
 layout: page
 ---
 **Google Scholar**  

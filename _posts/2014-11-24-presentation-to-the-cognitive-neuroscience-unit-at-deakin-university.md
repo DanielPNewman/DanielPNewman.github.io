@@ -1,6 +1,5 @@
 ---
 title: My visit to the Cognitive Neuroscience Unit (CNU) at Deakin University
-author: Dan Newman
 layout: post
 permalink: /presentation-to-the-cognitive-neuroscience-unit-at-deakin-university/
 categories:

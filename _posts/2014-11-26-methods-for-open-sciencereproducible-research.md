@@ -1,6 +1,5 @@
 ---
 title: Methods for Open Science/Reproducible Research
-author: Dan Newman
 layout: post
 permalink: /methods-for-open-sciencereproducible-research/
 categories:

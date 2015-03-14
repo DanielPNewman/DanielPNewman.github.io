@@ -1,5 +1,4 @@
 ---
-author: Dan Newman
 layout: page
 switch_like_status:
   - 1
