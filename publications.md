@@ -7,7 +7,7 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
-Tong JHS,Cummins TDR, Johnson BP, McKinley L-A, Pickering HE, Fanning P, Stefanac NR, **Newman** DP, Hawi Z, Bellgrove MA. (2015). An Association Between a Dopamine Transporter Gene(SLC6A3) Haplotype and ADHD Symptom Measures in Nonclinical Adults. *American Journal of Medical Genetics Part B*. 9999:1±8.
+Tong JHS,Cummins TDR, Johnson BP, McKinley L-A, Pickering HE, Fanning P, Stefanac NR, **Newman** DP, Hawi Z, Bellgrove MA. (2015). An Association Between a Dopamine Transporter Gene(SLC6A3) Haplotype and ADHD Symptom Measures in Nonclinical Adults. *American Journal of Medical Genetics Part B*. 9999:1±8. [Abstract](http://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.32283/abstract;jsessionid=C9880ED343E3955B63AB1FBCFE8994E0.f03t01)
 
 **Newman**, D.P., Cummins T.D.R., Tong J.H.S., Johnson B.P., Pickering H., Fanning P., Wagner J., Goodrich J.T.T., Hawi Z., Chambers C.D., & Bellgrove M.A. (2014). Dopamine transporter genotype is associated with a lateralized resistance to distraction during attention selection. *The Journal of Neuroscience*, 34(47), 15743-1570. [Abstract](http://www.jneurosci.org/content/34/47/15743.short)
 
