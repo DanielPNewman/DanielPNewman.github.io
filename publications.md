@@ -23,6 +23,8 @@ Bellgrove, M. A., Eramudugolla, R., **Newman**, D. P., Vance, A., & Mattingley, 
 
 ## Invited Talks
 
+Society for Neuroscience (Chicago, 20<sup>th</sup> of Oct 2015).  *Ocular exposure to short wavelength light modulates behavioural and electrophysiological markers of spatial attention bias.*
+
 Deakin University Cognitive Neuroscience Unit (CNU) Monthly Meeting (13<sup>th</sup> of Nov 2014). *Spatial Attention Asymmetries in Healthy Populations and in Disorders of Attention.* ([CNU’s Blog about my Talk is here](http://cogexneuro.blogspot.com.au/2014/11/spatial-attention-asymmetries-in.html))
 
 Monash Biomedical Imaging Science Seminar. (11th of July 2013). *Tracing the formation of perceptual decisions in the human brain: A new approach to the study of visuospatial attention asymmetries.*
