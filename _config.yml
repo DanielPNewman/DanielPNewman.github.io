@@ -9,7 +9,7 @@ permalink:           /:title/
 relative_permalinks: true
 
 # Setup
-title:               Dan Newman
+title:               Daniel P Newman
 tagline:             ''
 description:         ''
 baseurl:             ''
@@ -18,7 +18,7 @@ paginate_path:       "/my-blog/page:num/"
 
 # About/contact
 author:
-  name:              Dan Newman
+  name:              Daniel P Newman
   url:               http://dpnewman.com
 
 # Excludes
