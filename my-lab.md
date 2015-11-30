@@ -14,7 +14,6 @@ My PhD supervisors are [Prof. Mark Bellgrove][1] (Monash University) and [Dr Red
 
 {% include figure.html src="/public/images/2013/06/both2.png" caption="Chief geneticist Dr Ziarih Hawi teaching me about polymerase chain reaction and gel electrophoresis in our molecular genetics lab (left). Prof. Mark Bellgrove and I examining data in our EEG/eye-tracking lab (right)." %}
 
-blah blab blab 
  [1]: http://monash.edu/research/people/profiles/profile.html?sid=1985044&pid=6456
  [2]: http://www.mbi.monash.edu.au/
  [3]: http://www.tcd.ie/Neuroscience/partners/PI%20Profiles/Redmond_OConnell.php
