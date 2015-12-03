@@ -22,7 +22,7 @@ Bellgrove, M. A., Eramudugolla, R., **Newman**, D. P., Vance, A., & Mattingley, 
 **Newman**, D. P., O’Connell, R. G., Nathan, P. J., & Bellgrove, M. A. (2012). Dopamine transporter genotype predicts attentional asymmetry in healthy adults. *Neuropsychologia*, 50(12), 2823-2829. [Abstract](http://www.ncbi.nlm.nih.gov/pubmed/22940645)
 
 ## GitHub
-https://github.com/DanielPNewman
+[My GitHub Account] (https://github.com/DanielPNewman)
 
 ## Invited Talks
 
