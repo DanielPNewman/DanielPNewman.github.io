@@ -38,7 +38,8 @@ Though Felix Schonbrodt has an excellent piece about changing hiring practices t
 I can however comment on the perceived potential loss in the number of papers you can produce given the extra time taken to learn/implement open science practices:
 
 **It definitely doesn’t take much extra time! HURRAY!** It can feel like a burden at first, but there are many online tools to help with open science 
-(e.g. the [OFS] [13]), and once you get started it’s faster, easier and more enjoyable than you may imagine. 
+(e.g. the [OFS] [13], or see this excellent post, [Full Stack Science
+a guide to open science infrastructure] [20],about using GitHub, Docker Hub, FigShare,Travis CI and Zenodo), and once you get started it’s faster, easier and more enjoyable than you may imagine. 
 It took me 4 weeks part-time (20 hours per week, so a total of 80 hours) back at the end of 2014/start of 2015 to learn how to use 
 [R markdown] [10] and [github] [11] properly to share analysis and paradigm code. I took my time to learn it thoroughly, and this was coming from a point of complete ignorance about 
 [R markdown] [10] and [github] [11]. There are many free online options to help learn such skills, for example I learned free via these two courses [The Data Scientist’s Toolbox] [14] and [Reproducible Research] [15] .  
@@ -77,3 +78,4 @@ Furthermore, if I ever need to leave academia and [pursue work in industry] [18]
 [17]: https://figshare.com/blog/figshare_new_features_Get_DOI_or_private_sharing_link/135
 [18]: https://www.thedataincubator.com/
 [19]: http://www.nicebread.de/open-science-hiring-practices/
+[20]: http://billmills.github.io/blog/full-stack/
