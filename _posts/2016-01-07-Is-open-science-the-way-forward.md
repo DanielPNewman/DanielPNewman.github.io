@@ -34,12 +34,10 @@ There may be many perceived barriers to implementing open science practises, whi
 But here I just wanted to comment on one of these barriers which seems to be at the forefront of early career researchers’ minds- people have pointed out to me that currently the pressures and incentives set up in academic science, particularly for early career researchers, do not always encourage or reward the extra time taken to learn and implement open science practices. One main point of concern that I’ve heard is a potential loss in the number of papers you can produce given the extra time taken to learn/implement open science practices, since criteria for awards, post-doc positions, promotions, etc. are often heavily weighted on the of number of publications, and not necessarily on how ‘open’ the science is. 
 
 **Is this a valid concern?** I cannot comment on changes (or lack of changes) in the weighting of open science practices as a criteria for awards, post-doc positions, promotions, etc. across research institutes. 
-Though Felix Schonbrodt has an excellent piece about changing hiring practices towards research transparency [here] [19]   
-I can however comment on the perceived potential loss in the number of papers you can produce given the extra time taken to learn/implement open science practices:
+Though Felix Schonbrodt has an excellent piece about changing hiring practices towards research transparency [here] [19]. I can however comment on the perceived potential loss in the number of papers you can produce given the extra time taken to learn/implement open science practices:
 
 **It definitely doesn’t take much extra time! HURRAY!** It can feel like a burden at first, but there are many online tools to help with open science 
-(e.g. the [OFS] [13], or see this excellent post, [Full Stack Science
-a guide to open science infrastructure] [20],about using GitHub, Docker Hub, FigShare,Travis CI and Zenodo), and once you get started it’s faster, easier and more enjoyable than you may imagine. 
+(e.g. the [OFS] [13], or see this excellent post, [Full Stack Science a guide to open science infrastructure] [20], about using GitHub, Docker Hub, FigShare,Travis CI and Zenodo), and once you get started it’s faster, easier and more enjoyable than you may imagine. 
 It took me 4 weeks part-time (20 hours per week, so a total of 80 hours) back at the end of 2014/start of 2015 to learn how to use 
 [R markdown] [10] and [github] [11] properly to share analysis and paradigm code. I took my time to learn it thoroughly, and this was coming from a point of complete ignorance about 
 [R markdown] [10] and [github] [11]. There are many free online options to help learn such skills, for example I learned free via these two courses [The Data Scientist’s Toolbox] [14] and [Reproducible Research] [15] .  
@@ -47,7 +45,7 @@ And it took me about half an hour to work out that my university has an account 
 
 **So a total of ~80 hours of my time to gain the skills to make my analysis reproducible and share raw data.** 
 And now because I have these skills and enjoy implementing them as a usual part of my analysis pipeline, 
-**it will take me no extra time to make my data and analysis code open in the future.** This 80 hours of work actually saves me time in the long run, because of the advantages of reproducible code; it is easier to check for errors, if you comment it well you spend less time figuring out what you did later, etc. So you get back all of that 80 hours pretty quickly. So in the long run, the initial time-investment pays recurring dividends. 
+**it will take me no extra time to make my data and analysis code open in the future.** In fact, this 80 hours of work actually saves me time in the long run, because of the advantages of reproducible code; it is easier to check for errors, if you comment it well you spend less time figuring out what you did later, etc. So you get back all of that 80 hours pretty quickly. So in the long run, the initial time-investment pays recurring dividends. 
 So regarding applying for awards, post-doc positions, etc. I’m *banking on the hope that the reputational gain from doing fully open science from now on, not to mention the time it saves me in the long run, 
 will be worth more than a small one-off expenditure of ~80 hours that it took me to learn the necessary skills.*  
 Furthermore, if I ever need to leave academia and [pursue work in industry] [18] then having programing, or at least scripting, skills for data analysis along with git/github for version control and reproducible research makes you more valuable for [data science/analytics jobs] [18] in industry, than only knowing how to analyse data with the old point-and-click style methods with software like SPSS etc. 
