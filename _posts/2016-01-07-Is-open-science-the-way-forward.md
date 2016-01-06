@@ -30,7 +30,7 @@ There may be many perceived barriers to implementing open science practises. For
 So regarding applying for awards, post-doc positions, etc. I’m *banking on the hope that the reputational gain from doing fully open science from now on, is worth more than a small one-off expenditure of ~80.5 hours that it took me to learn the necessary skills.*  
 Furthermore, if I ever need to leave academia and [pursue work in industry] [18] then having programing, or at least scripting, skills for data analysis along with git/github for version control and reproducible research makes you more valuable for [data science/analytics jobs] [18] in industry, than only knowing how to analyse data with the old point-and-click style methods with software like SPSS etc. 
 
-*So from my viewpoint as a very early career researcher, no-matter how I look at it, it seems that open science is the way forward.*
+*So from my viewpoint, as a very early career researcher, it definitely appears that open science is the way forward.*
 
 **Open science FTW!**
 
