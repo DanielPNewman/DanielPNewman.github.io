@@ -28,21 +28,21 @@ So from my viewpoint as a very early career researcher, no-matter how I look at 
 **Open science FTW!**
 
 
-[1]: [https://opennessinitiative.org/] 
-[2]: [https://opennessinitiative.org/signatories/] 
-[3]: [http://mindhacks.com/2015/12/19/the-peer-reviewers-openness-initiative/] 
-[4]: [https://candicemorey.org/?p=51] 
-[5]: [http://rolfzwaan.blogspot.nl/2015/12/stepping-in-as-reviewers.html] 
-[6]: [http://daniellakens.blogspot.co.uk/2015/12/can-you-explain-why-you-did-not-share.html?m=1] 
-[7]: [http://www.nicebread.de/putting-the-i-in-open-science-how-you-can-change-the-face-of-science/] 
-[8]: [http://blogs.biomedcentral.com/bmcseriesblog/2012/11/20/supporting-a-new-way-to-peer-review/] 
-[9]: [http://whyopenresearch.org/] 
-[10]: [http://rmarkdown.rstudio.com/] 
-[11]: [https://github.com/] 
-[12]: [https://www.coursera.org/learn/data-scientists-tools] 
-[13]: [https://osf.io/] 
-[14]: [https://www.coursera.org/course/datascitoolbox] 
-[15]: [https://www.coursera.org/learn/reproducible-research] 
-[16]: [http://figshare.com/] 
-[17]: [https://figshare.com/blog/figshare_new_features_Get_DOI_or_private_sharing_link/135] 
-[18]: [https://www.thedataincubator.com/] 
+[1]: https://opennessinitiative.org/
+[2]: https://opennessinitiative.org/signatories/
+[3]: http://mindhacks.com/2015/12/19/the-peer-reviewers-openness-initiative/
+[4]: https://candicemorey.org/?p=51
+[5]: http://rolfzwaan.blogspot.nl/2015/12/stepping-in-as-reviewers.html
+[6]: http://daniellakens.blogspot.co.uk/2015/12/can-you-explain-why-you-did-not-share.html?m=1
+[7]: http://www.nicebread.de/putting-the-i-in-open-science-how-you-can-change-the-face-of-science/
+[8]: http://blogs.biomedcentral.com/bmcseriesblog/2012/11/20/supporting-a-new-way-to-peer-review/
+[9]: http://whyopenresearch.org/
+[10]: http://rmarkdown.rstudio.com/
+[11]: https://github.com/
+[12]: https://www.coursera.org/learn/data-scientists-tools
+[13]: https://osf.io/
+[14]: https://www.coursera.org/course/datascitoolbox
+[15]: https://www.coursera.org/learn/reproducible-research
+[16]: http://figshare.com/
+[17]: https://figshare.com/blog/figshare_new_features_Get_DOI_or_private_sharing_link/135
+[18]: https://www.thedataincubator.com/
