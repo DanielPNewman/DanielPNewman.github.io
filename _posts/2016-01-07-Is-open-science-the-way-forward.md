@@ -7,7 +7,7 @@ categories:
 I’ll be finishing up my PhD over the next two months, exciting times! Since I’ve got a thesis to write, I’ll try to keep this post short (or maybe long, but written in a HURRAY!). I have to give another shout out to the [The Peer Reviewers Openness Initiative (PRO)] [1] which is one of a number of excellent new initiatives in support of open science, and which has already received over [200 signatories] [2].
 Basically [PRO] [1] outlines a mechanism whereby peer reviewers require access to data/analysis code/materials (or at least a reason from the authors why these things are not provided) before conducting a comprehensive review. This is designed to shift incentives and achieve the goal of creating the expectation of open science practices. The advantages that will come with mass uptake of open science practices, particularly in relationship to the PRO initiative have been recently been outlined in excellent blogs by researchers who are more accomplished and qualified than me (e.g. see [here] [3] , [here] [4] , [here] [5] , [here] [6] , [here] [7] and [here] [8] ). 
 
-{% include figure.html src="/public/images/Blog-07-01-2016/pro_lock_wide-150x75.png" %}
+{% include figure.html src="/public/images/Blog-07-01-2016/pro_lock_wide-300x149.png" %}
 
 So this post is not about rehashing their excellent points. Rather, I wish to add another perspective to this discussion, **from the viewpoint of a very early career researcher**.  
 
