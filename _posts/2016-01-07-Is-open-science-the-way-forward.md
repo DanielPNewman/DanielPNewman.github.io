@@ -16,7 +16,7 @@ Hurrah!!! (I’m yet to submit a pre-registered report, but that’s next on my 
 
 
 ## Are early career researchers enthusiastic about open science? 
-I would love to see some valid data addressing this question.  Anecdotal evidence from my conversations with friends/colleagues who are at similar career stages, suggests that many early career researchers agree that open science is the way forward. When I’ve chatted about getting on board with the open science movement (e.g. **by signing [PRO] [2] , sharing data/analysis scripts, pre-registering studies etc.**), my colleagues have unanimously agree that it is a good idea and the best way forward for science, [for these reasons] [9] .
+I would love to see some valid data addressing this question.  Anecdotal evidence from my conversations with friends/colleagues who are at similar career stages, suggests that many early career researchers agree that open science is the way forward. When I’ve chatted about getting on board with the open science movement (e.g. **by [signing PRO] [2] , sharing data/analysis scripts, pre-registering studies etc.**), my colleagues have unanimously agree that it is a good idea and the best way forward for science, [for these reasons] [9] .
 
 
 ## So what’s stopping early career researchers practicing open science?
