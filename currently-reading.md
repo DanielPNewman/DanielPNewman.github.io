@@ -5,9 +5,9 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
-  * **Thinking, Fast and Slow**:, by Daniel Kahneman  
+  * **Thinking, Fast and Slow**, by Daniel Kahneman  
     
-  * **The Intelligent Investor**:, by  Benjamin Graham  
+  * **The Intelligent Investor**, by  Benjamin Graham  
 
 ## Past Great Reads
 
