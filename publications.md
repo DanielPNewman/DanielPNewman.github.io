@@ -23,8 +23,6 @@ Bellgrove, M. A., Eramudugolla, R., **Newman**, D. P., Vance, A., & Mattingley, 
 
 **Newman**, D. P., O’Connell, R. G., Nathan, P. J., & Bellgrove, M. A. (2012). Dopamine transporter genotype predicts attentional asymmetry in healthy adults. *Neuropsychologia*, 50(12), 2823-2829. [Abstract](http://www.ncbi.nlm.nih.gov/pubmed/22940645)
 
-## GitHub
-[My GitHub Account] (https://github.com/DanielPNewman)
 
 ## Invited Talks
 
@@ -47,6 +45,9 @@ Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell
 Wagner J, **Newman** DP, Loughnane GM, Kelly SP, O’Connell RG, Bellgrove MA (2014). Visuospatial attention bias is related to attention-deficit/hyperactivity disorder (ADHD) symptomology: A behavioural and electrophysiological analysis. *12th International Conference on Cognitive Neuroscience, 2014.*
 
 Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell, RG (2013). Visuo-spatial attention asymmetries are indexed by a temporal lag in the accumulation of sensory evidence. *2013 Neuroscience Meeting Planner. San Diego. Society for Neuroscience, 2013. Online.*
+
+## GitHub
+[My GitHub Account] (https://github.com/DanielPNewman)
 
  [1]: http://scholar.google.com.au/citations?user=P0CiRYkAAAAJ&hl=en
  [2]: http://www.sciencedirect.com/science/article/pii/S0028393214003224
