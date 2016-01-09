@@ -5,9 +5,13 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
-  * **The Signal and the Noise:** Why So Many Predictions Fail — but Some Don’t,  by Nate Silver
+  * **Thinking, Fast and Slow**:, by Daniel Kahneman  
+    
+  * **The Intelligent Investor**:, by  Benjamin Graham  
 
 ## Past Great Reads
+
+  * **The Signal and the Noise:** Why So Many Predictions Fail — but Some Don’t,  by Nate Silver
 
   * **Musicophilia**: Tales of Music and the Brain,  by Oliver Sacks
 
