@@ -7,7 +7,11 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
-Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra, R., Lakens, D., Lewandowsky, S., Morey, C. C., **Newman**, D. P., Sch¯onbrodt, F. D., Vanpaemel, W., Wagenmakers, E.-J., & Zwaan, R. A. (2016). [The peer reviewers’ openness initiative: Incentivising open research practices through peer review] [4]. Royal Society Open Science.
+Loughnane GM, **Newman** DP, Bellgrove MA, Lalor EC, Kelly SP, O’Connell RG (2016) Target Selection Signals Influence Perceptual Decisions by Modulating the Onset and Rate of Evidence Accumulation. *Current Biology* [Abstract][5] 
+
+Wang E, Sun L, Sun M, Huang J, Tao Y, Zhao X, Wu Z, Ding Y, **Newman** DP, Bellgrove MA, Wang Y, Song Y (2016) Attentional selection and suppression in children with attention-deficit/hyperactivity disorder. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*.  [Abstract][6]
+
+Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra, R., Lakens, D., Lewandowsky, S., Morey, C. C., **Newman**, D. P., Sch¯onbrodt, F. D., Vanpaemel, W., Wagenmakers, E.-J., & Zwaan, R. A. (2016). [The peer reviewers’ openness initiative: Incentivising open research practices through peer review] [4]. *Royal Society Open Science*.
 
 Tong JHS,Cummins TDR, Johnson BP, McKinley L-A, Pickering HE, Fanning P, Stefanac NR, **Newman** DP, Hawi Z, Bellgrove MA. (2015). An Association Between a Dopamine Transporter Gene(SLC6A3) Haplotype and ADHD Symptom Measures in Nonclinical Adults. *American Journal of Medical Genetics Part B*. 9999:1±8. [Abstract](http://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.32283/abstract;jsessionid=C9880ED343E3955B63AB1FBCFE8994E0.f03t01)
 
@@ -53,3 +57,5 @@ Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell
  [2]: http://www.sciencedirect.com/science/article/pii/S0028393214003224
  [3]: http://authors.elsevier.com/sd/article/S0028393213001000
  [4]: http://rsos.royalsocietypublishing.org/content/3/1/150547
+ [5]: http://www.cell.com/article/S0960982215015808/fulltext 
+ [6]: http://www.sciencedirect.com/science/article/pii/S2451902216000641 
