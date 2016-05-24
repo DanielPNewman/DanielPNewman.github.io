@@ -7,6 +7,8 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
+**Newman**, D.P., Lockley, S.W., Loughnane, G.M., Martins, A.C.P., Abe, R., Zoratti, M.T.R., Kelly, S.P., O’Neill, M.H., Rajaratnam, S.M.W., O’Connell, R.G., & Bellgrove, M.A. (2016). Ocular exposure to blue-enriched light has an asymmetric influence on neural activity and spatial attention. *Scientific Reports*. (In press).
+
 Loughnane GM, **Newman** DP, Bellgrove MA, Lalor EC, Kelly SP, O’Connell RG (2016) Target Selection Signals Influence Perceptual Decisions by Modulating the Onset and Rate of Evidence Accumulation. *Current Biology*. [Abstract][5] 
 
 Wang E, Sun L, Sun M, Huang J, Tao Y, Zhao X, Wu Z, Ding Y, **Newman** DP, Bellgrove MA, Wang Y, Song Y (2016) Attentional selection and suppression in children with attention-deficit/hyperactivity disorder. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*.  [Abstract][6]
