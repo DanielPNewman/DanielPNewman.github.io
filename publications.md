@@ -7,7 +7,7 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
-**Newman**, D.P., Lockley, S.W., Loughnane, G.M., Martins, A.C.P., Abe, R., Zoratti, M.T.R., Kelly, S.P., O’Neill, M.H., Rajaratnam, S.M.W., O’Connell, R.G., & Bellgrove, M.A. (2016). Ocular exposure to blue-enriched light has an asymmetric influence on neural activity and spatial attention. *Scientific Reports*. (In press).
+**Newman**, D.P., Lockley, S.W., Loughnane, G.M., Martins, A.C.P., Abe, R., Zoratti, M.T.R., Kelly, S.P., O’Neill, M.H., Rajaratnam, S.M.W., O’Connell, R.G., & Bellgrove, M.A. (2016). Ocular exposure to blue-enriched light has an asymmetric influence on neural activity and spatial attention. *Scientific Reports*. 6, 27754. doi:10.1038/srep27754. [Open Access][7]
 
 Loughnane GM, **Newman** DP, Bellgrove MA, Lalor EC, Kelly SP, O’Connell RG (2016) Target Selection Signals Influence Perceptual Decisions by Modulating the Onset and Rate of Evidence Accumulation. *Current Biology*. [Abstract][5] 
 
@@ -61,3 +61,4 @@ Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell
  [4]: http://rsos.royalsocietypublishing.org/content/3/1/150547
  [5]: http://www.cell.com/article/S0960982215015808/fulltext 
  [6]: http://www.sciencedirect.com/science/article/pii/S2451902216000641 
+ [7]: www.nature.com/articles/srep27754
