@@ -15,6 +15,7 @@ It’s early days so I haven’t actually managed to produce anything useful wit
 3.	Third I started searching for the “python equivalents” to my favourite R packages for data science. I’m a major fan of most of [Hadley Wickham’s] [3]’s R packages including ggplot2, dplyr, tidyr, lubridate, readr and readxl.  So far for python I’ve found:
 
 	* [Pandas] [4] seems to be the popular package for manipulating data in python, but another package that seems closer to [dplyr] [5] in R, is [dplython] [7] which maintains the functional programing ideas of dplyr, including my favourite feature from [magrittr] [8] and dplyr: the pipe-operator! 
+	
 	* The python plotting packages [seaborn] [9], [bokeh] [10] and [matplotlib] [11] all seem really nice. Matplotlib in particular seems very familiar to the plotting system in matlab. But since I’ve recently become very comfortable using Hadley’s ggplot2 ‘grammar of graphics’ type plotting system, I think [ggplot] [12] for python will suit me perfectly for starters! 
 	
 …annnd that’s all I’ve got time for today, BUT I plan to keep updating this post with more info, as I come across it, that I think could be useful for somebody learning python for data science who is coming from a background of R and Matlab….so stay tuned!! 
