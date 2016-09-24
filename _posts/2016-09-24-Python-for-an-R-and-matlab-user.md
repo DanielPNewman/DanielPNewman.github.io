@@ -4,7 +4,7 @@ layout: post
 categories:
   - Uncategorized
 ---
-I managed to find a few spare hours this weekend so I'm trying out Python for the first time. I usually use Matlab and R for data processing, visualisation and statistics, but I wanted to give Python a try, since some of my colleagues at Vokke seem to really love it. 
+I managed to find a few spare hours this weekend so I'm trying out Python for the first time. I usually use Matlab and R for data processing, visualisation and statistics, but I wanted to give Python a try, since some of my friends at [Vokke][13] seem to really love it. 
 
 It’s early days so I haven’t actually managed to produce anything useful with Python yet, but I thought I’d start to document the steps I’m taking to learn Python for data science, from the point of view of a Matlab and R user.  
 
@@ -18,7 +18,7 @@ It’s early days so I haven’t actually managed to produce anything useful wit
 	
 	* The python plotting packages [seaborn] [9], [bokeh] [10] and [matplotlib] [11] all seem really nice. Matplotlib in particular seems very familiar to the plotting system in matlab. But since I’ve recently become very comfortable using Hadley’s ggplot2 ‘grammar of graphics’ type plotting system, I think [ggplot] [12] for python will suit me perfectly for starters! 
 	
-…annnd that’s all I’ve got time for today, BUT I plan to keep updating this post with more info, as I come across it, that I think could be useful for somebody learning python for data science who is coming from a background of R and Matlab….so stay tuned!! 
+…annnd that’s all I’ve got time for today, BUT I plan to keep updating this post with more info, as I come across it, that I think could be useful for somebody learning python for data science who is coming from a background of R and Matlab….so stay tuned!!  
 
 [1]: https://www.continuum.io/downloads 
 [2]: https://www.yhat.com/products/rodeo 
@@ -31,3 +31,4 @@ It’s early days so I haven’t actually managed to produce anything useful wit
 [10]: https://github.com/bokeh/bokeh 
 [11]: http://matplotlib.org/ 
 [12]: https://github.com/yhat/ggplot 
+[13]: http://vokke.com.au/ 
