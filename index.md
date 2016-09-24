@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Hello! You’ve reached Daniel P. Newman’s personal website, my blog can be found on the side menu, and here is a little personal info:
+Hello! My blog can be found on the side menu, and here is a little personal info:
 
 I am interested in the human brain, human psychology, financial markets, economics and general data science.
 
