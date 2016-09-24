@@ -10,6 +10,8 @@ Nowadays I’m doing some cognitive neuroscience research - I work part-time as 
 
 I frequently use the [Matlab] [4] and [R] [5] languages for data analysis, and I've recently started to play around learning [Python] [6] for data science too (I plan to write a blog post about triumphs and pitfalls along a journey transitioning to Python from R, when I get some time!). I sill remember my way around [SPSS] [7] fairly well, but I rarely using it these days.     
 
+Here is a pic. of me at one of my favourite places, Tidal River at Wilsons Promontory National Park, Australia: 
+
 [1]: http://dpnewman.com/publications/
 [2]:https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx?WPID=Programs&PageName=Homepage
 [3]: http://vokke.com.au/business-intelligence/
