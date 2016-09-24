@@ -11,7 +11,7 @@ permalink:           /:title/
 # Setup
 title:               Daniel P Newman
 tagline:             ''
-description:         'Daniel P Newman's personal website and blog.'
+description:         ''
 baseurl:             ''
 paginate:            5
 paginate_path:       "/my-blog/page:num/"
