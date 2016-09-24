@@ -2,7 +2,9 @@
 layout: page
 ---
 
-Hello! You’ve reached Daniel P. Newman’s page, my blog can be found on the side menu, and here is a little personal info:
+Hello! You’ve reached Daniel P. Newman’s personal website, my blog can be found on the side menu, and here is a little personal info:
+
+I am interested in the human brain, human psychology, financial markets, economics and data science more generally.
 
 I recently completed a PhD in cognitive neuroscience at Monash University, Australia. Before that, I completed my undergraduate and honours degree at University of Queensland. Check out [some of my cognitive neuroscience research] [1]. 
 
@@ -13,7 +15,7 @@ I frequently use the [Matlab] [4] and [R] [5] languages for data analysis, and I
 This is me at one of my favourite places in Australia, Tidal River at Wilsons Promontory National Park: 
 
 [1]: http://dpnewman.com/publications/
-[2]:https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx?WPID=Programs&PageName=Homepage
+[2]: https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx?WPID=Programs&PageName=Homepage
 [3]: http://vokke.com.au/business-intelligence/
 [4]: http://matlab.com
 [5]: https://www.r-project.org/
