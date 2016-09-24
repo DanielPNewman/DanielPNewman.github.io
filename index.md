@@ -2,11 +2,11 @@
 layout: page
 ---
 
-Hello! You’ve reached Daniel P. Newman’s page, my blog is found in the side menu, and here is a little personal info:
+Hello! You’ve reached Daniel P. Newman’s page, my blog can be found on the side menu, and here is a little personal info:
 
-I recently completed a PhD in cognitive neuroscience at Monash University, Australia. Before that I completed my undergraduate and honours degree at University of Queensland. Check out [some of my cognitive neuroscience research here] [1] 
+I recently completed a PhD in cognitive neuroscience at Monash University, Australia. Before that, I completed my undergraduate and honours degree at University of Queensland. Check out [some of my cognitive neuroscience research] [1]. 
 
-These days I’m doing some cognitive neuroscience research - I work parttime as a researcher in the Bellgrove Laboratory as Monash University School of Psychological Sciences – but I’ve also expanded my interests to include both the financial markets, and data science more generally. I’m studying in my spare time to sit the [Level I CFA exam] [2], and I also do some work on a casual basis as a data scientist for [Vokke’s Business Intelligence team] [3] 
+Nowadays I’m doing some cognitive neuroscience research - I work part-time as a researcher for the Bellgrove Laboratory as Monash University School of Psychological Sciences – but I’ve also expanded my interests to include both the financial markets, and data science more generally. I’m studying in my spare time to sit the [Level I CFA exam] [2], and I also do some work on a casual basis as a data scientist for [Vokke’s Business Intelligence team] [3] 
 
 [1]: http://dpnewman.com/publications/
 [2]:https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx?WPID=Programs&PageName=Homepage
