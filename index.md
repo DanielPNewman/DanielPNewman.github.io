@@ -4,7 +4,7 @@ layout: page
 
 Hello! You’ve reached Daniel P. Newman’s personal website, my blog can be found on the side menu, and here is a little personal info:
 
-I am interested in the human brain, human psychology, financial markets, economics and data science more generally.
+I am interested in the human brain, human psychology, financial markets, economics and general data science.
 
 I recently completed a PhD in cognitive neuroscience at Monash University, Australia. Before that, I completed my undergraduate and honours degree at University of Queensland. Check out [some of my cognitive neuroscience research] [1]. 
 
