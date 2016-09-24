@@ -2,10 +2,15 @@
 layout: page
 ---
 
-Hello, I’m Daniel Newman, a PhD student in cognitive neuroscience at Monash University, Australia.
+Hello! You’ve reached Daniel P. Newman’s page, my blog is found in the side menu, and here is a little personal info:
 
-I completed my undergraduate and honours degree at University of Queensland in 2011, where my work exploring molecular genetic and electrophysiological correlates of visuospatial attention in humans was awarded the McElwain Prize for the best research thesis in Psychology.
+I recently completed a PhD in cognitive neuroscience at Monash University, Australia. Before that I completed my undergraduate and honours degree at University of Queensland. Check out [some of my cognitive neuroscience research here] [1] 
 
-I am now at Monash University Australia, as a member of the Bellgrove Laboratory. I am investigating the state (e.g. arousal/alertness, attentional load) and trait (e.g. genetics, hemispheric white matter asymmetries) factors that influence visuospatial attention asymmetries in healthy people and in people with disorders of attention (e.g. unilateral spatial neglect, ADHD). This involves the use of sensitive behavioural paradigms along with electroencephalography (EEG), pupillometry, molecular genetics, short wavelength light exposure, pharmacology and magnetic resonance imaging (MRI). My research will add to our understanding of the neural systems governing spatial attention in humans, and hopefully help to clarify precisely how these systems break down in disorders of spatial attention such as unilateral spatial neglect.
+These days I’m doing some cognitive neuroscience research - I work parttime as a researcher in the Bellgrove Laboratory as Monash University School of Psychological Sciences – but I’ve also expanded my interests to include both the financial markets, and data science more generally. I’m studying in my spare time to sit the [Level I CFA exam] [2], and I also do some work on a casual basis as a data scientist for [Vokke’s Business Intelligence team] [3] 
+
+[1]: http://dpnewman.com/publications/
+[2]:https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx?WPID=Programs&PageName=Homepage
+[3]: http://vokke.com.au/business-intelligence/
+
 
 {% include figure.html src="public/images/2013/02/2013-02-10-14-19-00.jpg" %}
