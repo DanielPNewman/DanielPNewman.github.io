@@ -12,6 +12,8 @@ So I wrote some R code to import the data from excel spreadsheet, tidy it, and t
 
 The R code I used to make the plot below is [here][1] 
 
+*Click the plot to enlarge* 
+
 {% include figure.html src="/public/images/Blog-29-09-2016/output.gif" %}
 
 
