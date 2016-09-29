@@ -4,7 +4,7 @@ layout: post
 categories:
   - Uncategorized
 ---
-I stumbled across an interesting raw dataset from Vic Gov today with Melbourne, Australia house and apartment prices from 2005-March 2016 http://www.dtpli.vic.gov.au/property-and-land-titles/property-information/property-prices
+I stumbled across an interesting raw dataset from Victorian Government, Australia today, It had house and apartment prices in Melbourne, Australia from 2005-March 2016 [http://www.dtpli.vic.gov.au/property-and-land-titles/property-information/property-prices] [2]
 
 Thought it worth a look... 
 
@@ -18,3 +18,4 @@ The R code I used to make the plot below is [here][1]
 
 
 [1]: https://github.com/DanielPNewman/MelbournePropertyPrices/blob/master/MelbournePropertyPrices.Rmd
+[2]: http://www.dtpli.vic.gov.au/property-and-land-titles/property-information/property-prices
