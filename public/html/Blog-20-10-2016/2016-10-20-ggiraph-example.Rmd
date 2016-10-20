@@ -1,0 +1,123 @@
+---
+output: html_document
+---
+
+In my last blog (see below) I had just discovered the plotly package and was blown away by how easy it was to use plotly to make ggplot2 plots reactive to the user's mouse. 
+Well I've just stumbled across another package to achieve this called [ggiraph][1] which I like even more!!  
+In my opinion [ggiraph][1] integrates with ggolot2 in a nicer way than plotly for making the plot reactive to the user's mouse. 
+Below is some code to make same fake data as I used in my last blog post, but this time I use [ggiraph][1] to turn the static ggplot2 plot from my last blog post into a plot with user reactivity.
+
+The code below uses functions from the "[ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)", "[stringr](https://cran.r-project.org/web/packages/stringr/stringr.pdf)",  "[dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)", "[knitr](https://cran.r-project.org/web/packages/knitr/knitr.pdf)" and "[ggiraph][1]" packages. 
+
+```{r required packages, warning=FALSE, include=FALSE}
+### Install/load required packages
+#List of R packages required for this analysis:
+required_packages <- c("ggplot2", "stringr", "knitr", "dplyr", "ggiraph")
+#Install required_packages:
+new.packages <- required_packages[!(required_packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+#Load required_packages:
+lapply(required_packages, require, character.only = TRUE)
+
+#Set decimal points and disable scientific notation
+options(digits=3, scipen=999) 
+```
+
+###Use the same fake revenue data as my last blog post, but this time add a column for State Total Revenue ($) per year:
+```{r setup dataset, warning=FALSE}
+
+#Make up some fake data
+df<-data_frame(state=rep(c("New South Wales", 
+                 "Victoria", 
+                 "Queensland",
+                 "Western Australia",
+                 "South Australia",
+                 "Tasmania"), 36)) %>%
+    group_by(state) %>%
+    mutate(year=c(rep(2012, 9), rep(2013,9),rep(2014, 9),rep(2015, 9))) %>%
+    group_by(state, year) %>%
+    mutate(`store ID` = str_c("shop_#",as.character(seq_along(state)))) %>%
+    group_by(state, year, `store ID`) %>%
+    mutate(`Revenue ($)` =  ifelse(state=="New South Wales", sample(x=c(100000:900000), 1),
+                            ifelse(state=="Victoria", sample(x=c(100000:700000), 1),
+                            ifelse(state=="Queensland", sample(x=c(100000:500000), 1),
+                            ifelse(state=="Western Australia",sample(x=c(10000:200000), 1),
+                            ifelse(state=="South Australia",sample(x=c(10000:90000), 1),       
+                            ifelse(state=="Tasmania", sample(x=c(10000:200000), 1), NA))))))) %>%
+    group_by(state, year) %>%
+    mutate(`State Total Revenue ($)` = sum(`Revenue ($)`))
+    
+
+```
+
+####Peak at the first 6 rows of the fake revenue data:
+```{r Peak at dataset, warning=FALSE}
+kable(head(df))
+
+```
+
+
+###Get the same ggplot from my last blog most, but this time, add user reactivity using ggiraph... 
+####by replacing 'geom_boxplot' and 'geom_point' (from the plot in my last blog post) with 'geom_boxplot_interactive' and 'geom_point_interactive' from the ggiraph package, and then using ggiraph() to print the plot:
+
+```{r Plot2}
+
+#Create the text you want displayed in the tooltop for geom_point_interactive
+  df$tooltip_point <- paste0(
+    "<b>", df$`store ID`, "</b>",
+    "<br>(", df$state, ")",
+    "<br>Revenue:",
+    "<br>$", df$`Revenue ($)`,
+    "</span></div>"
+  )  
+
+#Create the text you want displayed in the tooltop for geom_boxplot_interactive
+  df$tooltip_boxplot <- paste0(
+    "<b>", df$state, "</b>",
+    "<br>State Total Revenue:",
+    "<br>$", df$`State Total Revenue ($)`,
+    "</span></div>"
+  )    
+
+
+#Make plot reactive to user's mouse with 
+#'geom_boxplot_interactive' and 'geom_point_interactive'
+point_interactive_plot <- ggplot(df, aes(state, `Revenue ($)`)) +
+        geom_boxplot_interactive(aes(colour=state, tooltip=tooltip_boxplot)) +
+        geom_point_interactive(aes(colour=state, tooltip=tooltip_point)) +
+        theme(axis.title.x =  element_blank(),
+              axis.text.x  =  element_blank(), 
+              axis.title.y = element_text(face="bold", size=12),
+              axis.text.y  = element_text(angle=0, vjust=0.5, size=11),
+              legend.title = element_text(size=12, face="bold"),
+              legend.text = element_text(size = 12, face = "bold"),
+              plot.title = element_text(face="bold", size=14)) + 
+        ggtitle("Store Revenue per State from 2012 to 2015") +
+        facet_wrap(~year) 
+
+
+# htmlwidget call
+ggiraph(code = {print(point_interactive_plot)}, zoom_max = 5,
+        tooltip_offx = 20, tooltip_offy = -10, 
+        hover_css = "fill:red;",
+        tooltip_opacity = 0.7,
+        pointsize = 12)
+```
+
+####These plots using the ggiraph and ggplot2 packages are cool because you can hover mouse over data point and a lable appears with information about that data point or box. Notice I've made different information appear depending on whether the mouse is hovered over an individual data point or a state box-plot, using the tooltip_point and tooltip_boxplot variables I made. Also notice the "zoom_max = 5" in the ggiraph() function allows the user to use mouse scroll to zoom in and zoom out on the plot.  David Gohel and Mike Bostock have done a great job with the ggiraph package! imho :)
+
+The ggiraph package has a bunch of other interactive geom functions too:
+
+* geom_bar_interactive
+* geom_point_interactive
+* geom_polygon_interactive
+* geom_map_interactive
+* geom_path_interactive
+* geom_rect_interactive
+* geom_segment_interactive
+* geom_text_interactive
+* geom_boxplot_interactive
+
+[Go check it out][1]! 
+
+[1]: https://cran.r-project.org/web/packages/ggiraph/ggiraph.pdf
