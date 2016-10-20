@@ -2,7 +2,7 @@
 output: html_document
 ---
 
-In my previous blog on 30 Sep 2016 (see below) I had just discovered the plotly package and was blown away by how easy it was to use plotly to make ggplot2 plots reactive to the user's mouse. 
+In my [previous blog on 30 Sep 2016][2], I had just discovered the plotly package and was blown away by how easy it was to use plotly to make ggplot2 plots reactive to the user's mouse. 
 
 Well I've just stumbled across another package to achieve this called [ggiraph][1], **and I ggiraph like even more!!**
 
@@ -127,3 +127,4 @@ The ggiraph package has a bunch of other interactive geom functions too:
 [Go check it out][1]! 
 
 [1]: https://cran.r-project.org/web/packages/ggiraph/ggiraph.pdf
+[2]: http://dpnewman.com/plotly/
