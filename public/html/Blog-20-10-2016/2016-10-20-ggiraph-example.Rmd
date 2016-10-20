@@ -2,9 +2,12 @@
 output: html_document
 ---
 
-In my last blog (see below) I had just discovered the plotly package and was blown away by how easy it was to use plotly to make ggplot2 plots reactive to the user's mouse. 
-Well I've just stumbled across another package to achieve this called [ggiraph][1] which I like even more!!  
-In my opinion [ggiraph][1] integrates with ggolot2 in a nicer way than plotly for making the plot reactive to the user's mouse. 
+In my previous blog on 30 Sep 2016 (see below) I had just discovered the plotly package and was blown away by how easy it was to use plotly to make ggplot2 plots reactive to the user's mouse. 
+
+Well I've just stumbled across another package to achieve this called [ggiraph][1], **and I ggiraph like even more!!**
+
+In my opinion [ggiraph][1] integrates with ggolot2 in a nicer way than plotly to achieve basic reactivity to the user's mouse. 
+
 Below is some code to make same fake data as I used in my last blog post, but this time I use [ggiraph][1] to turn the static ggplot2 plot from my last blog post into a plot with user reactivity.
 
 The code below uses functions from the "[ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)", "[stringr](https://cran.r-project.org/web/packages/stringr/stringr.pdf)",  "[dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)", "[knitr](https://cran.r-project.org/web/packages/knitr/knitr.pdf)" and "[ggiraph][1]" packages. 
