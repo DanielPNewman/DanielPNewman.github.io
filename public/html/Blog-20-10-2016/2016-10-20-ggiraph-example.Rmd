@@ -105,7 +105,10 @@ ggiraph(code = {print(point_interactive_plot)}, zoom_max = 5,
         hover_css = "fill:red;",
         tooltip_opacity = 0.7,
         pointsize = 12)
+
+
 ```
+
 
 ####These plots using the ggiraph and ggplot2 packages are cool because you can hover mouse over data point and a lable appears with information about that data point or box. Notice I've made different information appear depending on whether the mouse is hovered over an individual data point or a state box-plot, using the tooltip_point and tooltip_boxplot variables I made. Also notice the "zoom_max = 5" in the ggiraph() function allows the user to use mouse scroll to zoom in and zoom out on the plot.  David Gohel and Mike Bostock have done a great job with the ggiraph package! imho :)
 
