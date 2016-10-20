@@ -86,8 +86,8 @@ kable(head(df))
 #Make plot reactive to user's mouse with 
 #'geom_boxplot_interactive' and 'geom_point_interactive'
 point_interactive_plot <- ggplot(df, aes(state, `Revenue ($)`)) +
-        geom_boxplot_interactive(aes(colour=state, tooltip=tooltip_boxplot)) +
-        geom_point_interactive(aes(colour=state, tooltip=tooltip_point)) +
+        geom_boxplot_interactive(aes(colour=state, tooltip=tooltip_boxplot, data_id=tooltip_boxplot)) +
+        geom_point_interactive(aes(colour=state, tooltip=tooltip_point, data_id=tooltip_point)) +
         theme(axis.title.x =  element_blank(),
               axis.text.x  =  element_blank(), 
               axis.title.y = element_text(face="bold", size=12),
@@ -110,7 +110,7 @@ ggiraph(code = {print(point_interactive_plot)}, zoom_max = 5,
 ```
 
 
-####These plots using the ggiraph and ggplot2 packages are cool because you can hover mouse over data point and a lable appears with information about that data point or box. Notice I've made different information appear depending on whether the mouse is hovered over an individual data point or a state box-plot, using the tooltip_point and tooltip_boxplot variables I made. Also notice the "zoom_max = 5" in the ggiraph() function allows the user to use mouse scroll to zoom in and zoom out on the plot.  David Gohel and Mike Bostock have done a great job with the ggiraph package! imho :)
+####These plots using the ggiraph and ggplot2 packages are cool because you can hover mouse over data point and a lable appears with information about that data point or box. Notice I've made different information appear depending on whether the mouse is hovered over an individual data point or a state box-plot, using the tooltip_point and tooltip_boxplot variables I made. Also notice the "zoom_max = 5" in the ggiraph() function allows the user to mouse scroll to zoom in and zoom out on the plot.  David Gohel and Mike Bostock have done a great job with the ggiraph package! imho :)
 
 The ggiraph package has a bunch of other interactive geom functions too:
 
