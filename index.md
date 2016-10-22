@@ -10,7 +10,7 @@ I recently completed a PhD in cognitive neuroscience at Monash University, Austr
 
 Nowadays I’m doing some cognitive neuroscience - working part-time for the Bellgrove Laboratory as Monash University School of Psychological Sciences – but I’ve also expanded my interests to include both the financial markets, and data science more generally. I’m studying in my spare time to sit the [Level I CFA exam] [2], and I also do some work on a casual basis as a data scientist for [Vokke’s Business Intelligence team] [3]. 
 
-I frequently use the [Matlab] [4] and [R] [5] languages for data analysis, and I've recently started to play around learning [Python] [6] for data science too (still a beginner with python though!). I remember my way around [SPSS] [7] fairly well, but I rarely using SPSS for data analysis these days.     
+I frequently use the [Matlab] [4] and [R] [5] languages for data analysis, and I've recently started to play around learning [Python] [6] for data science too (still a beginner with python though!). I remember my way around [SPSS] [7] fairly well, but I rarely use SPSS for data analysis these days.     
 
 This is me at one of my favourite places in Australia, Tidal River at Wilsons Promontory National Park: 
 
