@@ -9,7 +9,7 @@ I made this nice little .gif showing change over time in Median Melbourne Proper
 
 {% include figure.html src="/public/images/Blog-29-09-2016/Melbourne.gif" %}
 
-Well I've just come back to looking at that dataset and this time I've plotted the **%** change per annum and overall, and also absolute **$** change from 2005-2016 on some interactive plots.
+Well I've just come back to looking at that data set and this time I've plotted the **%** change per annum and overall, and also absolute **$** change from 2005-2016 on some interactive plots.
 These plots allow you to zoom in, hover over a suburb to see more info, or click on a suburb to open a new window and explore that suburb in more detail.
  
 The R code I used to make the plots below is [here][2] 
@@ -20,7 +20,7 @@ Although it looks like it might actually be [a bug in the new ggiraph package][4
 
 **Explore below, it's interesting to see that SYNDAL has the greatest per annum and overall % growth, however it's TOORAK that has by far has the highest absolute $ growth over the same period of time.** 
 
-<iframe width="800" height= "2750" frameborder="0" scrolling="no" src="/public/html/Blog-22-10-2016/2016-10-20-MelbournePropertyPrices.html"></iframe>
+<iframe width="800" height= "2750" frameborder="0" scrolling="no" src="/public/html/2016-10-22-MelbournePropertyPrices.html"></iframe>
 
 
 [1]: http://dpnewman.com/Making-Maps/
