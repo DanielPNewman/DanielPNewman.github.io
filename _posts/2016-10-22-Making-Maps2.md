@@ -1,18 +1,18 @@
 ---
-title: Median Property Prices 2005-2016, PART 2
+title: Median Property Prices 2005-2016...PART 2!
 layout: post
 categories:
   - Uncategorized
 ---
 
-I made this nice little .gif showing change over time in Median Melbourne Property Prices ($) from 2005-2016 in a [previous blog on 39 Sep 2016][1] :
+A few weeks back I made a blog post with this nice little .gif below, of change over time in Median Melbourne Property Prices ($) from 2005-2016 - see my [previous blog on 29 Sep 2016][1] :
 
-{% include figure.html src="/public/images/Blog-29-09-2016/Melbourne.gif" %}
+{% include figure.html src="/public/images/Blog-29-09-2016/output.gif" %}
 
 Well I've just come back to looking at that data set and this time I've plotted the **%** change per annum and overall, and also absolute **$** change from 2005-2016 on some interactive plots.
 These plots allow you to zoom in, hover over a suburb to see more info, or click on a suburb to open a new window and explore that suburb in more detail.
  
-The R code I used to make the plots below is [here][2] 
+The R code I used to make the plots below is [here][2]. 
 
 Notice that I've not yet figured out how to get the background map to render properly for these interactive plots. 
 I've got [a question up on stack overflow][3] if you want to help out...
