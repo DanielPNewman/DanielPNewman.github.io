@@ -20,7 +20,7 @@ Although it looks like it might actually be [a bug in the new ggiraph package][4
 
 **Explore below, it's interesting to see that SYNDAL has the greatest per annum and overall % growth, however it's TOORAK that has by far has the highest absolute $ growth over the same period of time.** 
 
-<iframe width="800" height= "2750" frameborder="0" scrolling="no" src="/public/html/Blog-22-10-2016/2016-10-22-MelbournePropertyPrices.html"></iframe>
+<iframe width="800" height= "2750" frameborder="0" scrolling="no" src="/public/html/Blog-22-10-2016/MelbournePropertyPrices.html"></iframe>
 
 
 [1]: http://dpnewman.com/Making-Maps/
