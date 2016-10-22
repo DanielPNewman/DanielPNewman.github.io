@@ -1,5 +1,5 @@
 ---
-title: Median Property Prices 2005-2016 - PART 2!
+title: Median Property Prices 2005-16 - PART 2!
 layout: post
 categories:
   - Uncategorized
