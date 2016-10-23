@@ -1,6 +1,5 @@
 # Dependencies
 markdown:            kramdown
-highlighter:         rouge
 
 # Permalinks
 #
@@ -28,3 +27,13 @@ author:
 # Excludes
 exclude: [".editorconfig", ".gitignore", "CNAME", "Gemfile", "Gemfile.lock", "README.md"]
 
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-paginate
+  
+  
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
