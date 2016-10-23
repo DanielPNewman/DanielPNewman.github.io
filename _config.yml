@@ -15,8 +15,6 @@ baseurl:             ''
 paginate:            5
 paginate_path:       "/my-blog/page:num/"
 
-# Google services
-google_analytics: UA-86175629-1
 
 # About/contact
 author:
