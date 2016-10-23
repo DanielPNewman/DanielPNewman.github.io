@@ -53,7 +53,7 @@ Wagner J, **Newman** DP, Loughnane GM, Kelly SP, O’Connell RG, Bellgrove MA (2
 Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell, RG (2013). Visuo-spatial attention asymmetries are indexed by a temporal lag in the accumulation of sensory evidence. *2013 Neuroscience Meeting Planner. San Diego. Society for Neuroscience, 2013. Online.*
 
 ## GitHub
-[My GitHub Account] (https://github.com/DanielPNewman)
+[My GitHub Account][8] https://github.com/DanielPNewman
 
  [1]: http://scholar.google.com.au/citations?user=P0CiRYkAAAAJ&hl=en
  [2]: http://www.sciencedirect.com/science/article/pii/S0028393214003224
@@ -62,3 +62,4 @@ Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell
  [5]: http://www.cell.com/article/S0960982215015808/fulltext 
  [6]: http://www.sciencedirect.com/science/article/pii/S2451902216000641 
  [7]: http://www.nature.com/articles/srep27754
+ [8]: https://github.com/DanielPNewman
