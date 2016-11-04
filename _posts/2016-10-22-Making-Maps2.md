@@ -14,10 +14,6 @@ These plots allow you to zoom in, hover over a suburb to see more info, or click
  
 The R code I used to make the plots below is [here][2]. 
 
-Notice that I've not yet figured out how to get the background map to render properly for these interactive plots. 
-I've got [a question up on stack overflow][3] if you want to help out...
-Although it looks like it might actually be [a bug in the new ggiraph package][4] that is causing issue with raster objects.
-
 **Explore below, it's interesting to see that SYNDAL has the greatest per annum and overall % growth, however it's TOORAK that has by far has the highest absolute $ growth over the same period of time.** 
 
 <iframe width="800" height= "2750" frameborder="0" scrolling="no" src="/public/html/Blog-22-10-2016/MelbournePropertyPrices.html"></iframe>
