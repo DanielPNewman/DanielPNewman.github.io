@@ -1,5 +1,5 @@
 ---
-title: Using R to create a word clowd from my PhD thesis text
+title: Using R to create a word cloud from my PhD thesis text
 layout: post
 categories:
   - Uncategorized
