@@ -2,13 +2,11 @@
 layout: page
 ---
 
-Hello! My blog can be found on the side menu, and here is a little personal info:
+Hello! My blog can be found on the side menu (top left corner), and here is a little personal info:
 
 I am interested in the human brain, human psychology, financial markets, economics and general data science.
 
 I recently completed a PhD in cognitive neuroscience at Monash University, Australia. Before that, I completed my undergraduate and honours degree at University of Queensland. Check out [some of my cognitive neuroscience research] [1]. 
-
-Nowadays I’m doing some cognitive neuroscience - working part-time for the Bellgrove Laboratory as Monash University School of Psychological Sciences – but I’ve also expanded my interests to include both the financial markets, and data science more generally. I’m studying in my spare time to sit the [Level I CFA exam] [2], and I also do some work on a casual basis as a data scientist for [Vokke’s Business Intelligence team] [3]. 
 
 I frequently use the [Matlab] [4] and [R] [5] languages for data analysis, and I've recently started to play around learning [Python] [6] for data science too (still a beginner with python though!). I remember my way around [SPSS] [7] fairly well, but I rarely use SPSS for data analysis these days.     
 
