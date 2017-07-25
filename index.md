@@ -2,13 +2,13 @@
 layout: page
 ---
 
-Hello! My blog can be found on the side menu (top left corner), and here is a little personal info:
+Below is a little personal info, and my blog can be found in the menu (top left corner).
 
 I am interested in the human brain, human psychology, financial markets, economics and general data science.
 
 I recently completed a PhD in cognitive neuroscience at Monash University, Australia. Before that, I completed my undergraduate and honours degree at University of Queensland. Check out [some of my cognitive neuroscience research] [1]. 
 
-I frequently use the [Matlab] [4] and [R] [5] languages for data analysis, and I've recently started to play around learning [Python] [6] for data science too (still a beginner with python though!). I remember my way around [SPSS] [7] fairly well, but I rarely use SPSS for data analysis these days.     
+I frequently use the [R] [5] SQL and [Matlab] [4]  languages, and I've recently started to play around learning [Python] [6] for data science too. I remember my way around [SPSS] [7] fairly well, but I rarely use SPSS for data analysis these days.     
 
 This is me at one of my favourite places in Australia, Tidal River at Wilsons Promontory National Park: 
 

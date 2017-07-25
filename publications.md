@@ -7,6 +7,8 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
+**Newman**, D.P., Loughnane G. M., Kelly, S.P., O’Connell, R.G., & Bellgrove, M.A (2017)  [Visuospatial asymmetries arise from differences in the onset time of perceptual evidence accumulation.][9] *Journal of Neuroscience*  37 (12) 3378-3385; DOI: https://doi.org/10.1523/JNEUROSCI.3512-16.2017
+
 **Newman**, D.P., Lockley, S.W., Loughnane, G.M., Martins, A.C.P., Abe, R., Zoratti, M.T.R., Kelly, S.P., O’Neill, M.H., Rajaratnam, S.M.W., O’Connell, R.G., & Bellgrove, M.A. (2016). [Ocular exposure to blue-enriched light has an asymmetric influence on neural activity and spatial attention.][7] *Scientific Reports*. 6, 27754. doi:10.1038/srep27754. 
 
 Loughnane GM, **Newman** DP, Bellgrove MA, Lalor EC, Kelly SP, O’Connell RG (2016) Target Selection Signals Influence Perceptual Decisions by Modulating the Onset and Rate of Evidence Accumulation. *Current Biology*. [Abstract][5] 
@@ -63,3 +65,4 @@ Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell
  [6]: http://www.sciencedirect.com/science/article/pii/S2451902216000641 
  [7]: http://www.nature.com/articles/srep27754
  [8]: https://github.com/DanielPNewman
+ [9]: http://www.jneurosci.org/content/37/12/3378
