@@ -5,11 +5,12 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
-  * **Thinking, Fast and Slow**, by Daniel Kahneman  
-    
-  * **The Intelligent Investor**, by  Benjamin Graham  
+  * **Principles**, by Ray Dalio 
+     
 
 ## Past Great Reads
+
+  * **Thinking, Fast and Slow**, by Daniel Kahneman  
 
   * **The Signal and the Noise:** Why So Many Predictions Fail — but Some Don’t,  by Nate Silver
 
