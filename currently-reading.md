@@ -5,8 +5,8 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
+  * **Factfulness**, by Hans Rosling, Anna Rosling Rönnlund and Ola Rosling 
   * **Principles**, by Ray Dalio 
-     
 
 ## Past Great Reads
 
