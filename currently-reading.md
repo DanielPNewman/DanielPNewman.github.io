@@ -5,11 +5,28 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
-  * **Factfulness**, by Hans Rosling, Anna Rosling Rönnlund and Ola Rosling 
+  * **Big Debt Crises**, by Ray Dalio
   
-  * **Principles**, by Ray Dalio 
 
 ## Past Great Reads
+
+  * **Factfulness**, by Hans Rosling, Anna Rosling Rönnlund and Ola Rosling
+
+  * **Principles**, by Ray Dalio  
+
+  * **Vagabonding**, by Rolf Potts 
+
+  * **Hedgehogging**, by Barton Biggs 
+
+  * **The Spider Network**, by David Enrich
+
+  * **Tools of Titans**, by Tim Ferris 
+
+  * **Surely You’re Joking**, Mr Feynman! by Richard P. Feynman   
+
+  * **Funny in Farsi**, by Firoozeh Dumas 
+
+  * **The Little Book of Markey Wizards**, by Jack D. Schwager 
 
   * **Thinking, Fast and Slow**, by Daniel Kahneman  
 
