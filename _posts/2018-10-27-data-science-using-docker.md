@@ -6,7 +6,7 @@ One of the most useful and versatile tools I’ve picked up to help data science
 
 ## What’s so good about using docker for interactive data science?
 
-The thing I love about using docker is, it has eliminated the hassle of installing re-software and managing package/library/module versions every time I want to train ML models on a different machine – no more fighting module conflicts! You can make a *docker image* that has all your favourite data science tooling, and then use that image to easily build a container with your data science work environment that is identical every time, no matter what machine you build it on.  
+The thing I love about using docker is, it has eliminated the hassle of re-installing software and managing package/library/module versions every time I want to train ML models on a different machine – no more fighting module conflicts! You can make a *docker image* that has all your favourite data science tooling, and then use that image to easily build a container with your data science work environment that is identical every time, no matter what machine you build it on.  
 
 ## Some basic terminology 
 
@@ -14,7 +14,7 @@ The thing I love about using docker is, it has eliminated the hassle of installi
 * The ‘dockerfile’ is a text file with simple code that describes your docker image. 
 
 #### Docker image:
-* The docker ‘image’ describes the base operating system and all the other programs you want  (for example in my case, `linux`, `R`, `python`, `fastText`, `xgboost`, etc). 
+* The docker ‘image’ describes the base operating system and all the other programs you want  (for example, in my case: `linux`, `R`, `dplyr` `python`, `fastText`, `xgboost`, `PyICU` etc). 
 
 #### Docker container: 
 * A running instance of an image is called a ‘container’. You can have one or many containers of the same image running on one or many physical host machines. 
@@ -31,11 +31,55 @@ You can bake as many cakes as you like with a given recipe. You can bake the exa
 ## How to get Started
 
 1.	[Install Docker][3]
-2. 
+
+2. Test installation worked by running the simple [hello-world][4] Docker image: 
+  * in your terminal/command prompt `docker run hello-world`
+
+3. To start with, you may like to use an pre-made public image created for data science tooling, pulled directly from [dockerhub][5]. There are many of these available for free for on [dockerhub][5] which as a nice search function.
+  * for example, you could download this [Jupyter Notebook Data Science Stack][6] using `docker pull jupyter/datascience-notebook` then 
+ 
+4. Alternatively, create your own custom docker image, with the exact tooling and versions you want. For example, see the files needed to edit and build my personal docker image below:
+
+## My 
+
+This docker image was made to help with my data science work flow. Specifically it allows me to quickly and easily set up the required versions of my tooling/packages (`python`, `R`, `xgboost`, `fastText` etc.) in a container on other machines.
+
+The docker image can be pulled as is from directly from [my public docker repo](https://hub.docker.com/r/danielpnewman/training-tools/) using terminal command:
+
+- `docker pull danielpnewman/training-tools`
+
+Alternatively you can update my docker files and rebuild your own image using the steps below. :-)
+
+### Files for making a docker image for model training using Python3.6, xgboost, fastText, PyICU, R, dplyr, and other data science tools
+
+1. If needed update the [Dockerfile](Dockerfile) with required software.
+
+2. If needed update [requirements](requirements.txt) with required python packages.
+
+3. Build local docker image from Dockerfile in ~/training-docker-files directory, this code tags the image name as "danielpnewman/training-tools", which can be changed to whatever name you like:
+
+	- `cd training-docker-files`  
+	- `docker build -t danielpnewman/training-tools .`
+
+4. Put training data, scripts etc. into local `/to-mount` directory and then mount it into the docker container when you build it using this command:
+
+	- `docker run --interactive --tty  --volume $(pwd)/to-mount:/training/to-mount danielpnewman/training-tools`
+
+	- Note you can mount multiple directories:
+
+		- `docker run --interactive --tty  --volume $(pwd)/to-mount:/training/to-mount --volume $(pwd)/scripts:/training/scrips danielpnewman/training-tools`
+
+5.  You can close the terminal of an active docker session and then log back into it later using its CONTAINER ID, e.g:
+
+ 	- `exec -it d40b2796e7ca /bin/bash`
+
+To push updated docker image to docker hub:
+ `docker push danielpnewman/training-tools`
 
 
 
-## Cheat sheet
+
+## Basic cheat sheet
 
 #### List Docker CLI commands
 `docker`
@@ -59,8 +103,10 @@ You can bake as many cakes as you like with a given recipe. You can bake the exa
 
 
 
-
-
 [1]: https://www.seek.com.au/
 [2]: https://www.docker.com/
 [3]: https://docs.docker.com/install/ 
+[4]: https://hub.docker.com/_/hello-world/
+[5]: https://hub.docker.com/
+[6]: https://hub.docker.com/r/jupyter/datascience-notebook/
+
