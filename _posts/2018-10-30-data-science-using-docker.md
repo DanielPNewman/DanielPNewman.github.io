@@ -8,7 +8,7 @@ The thing I love about using docker is, it has eliminated the hassle of re-insta
 
 So no more "it worked when I ran it on my machine"!! ;-P
 
-{% include figure.html src="/public/images/Blog-01-11-2018/say-works-on-my-machine.jpg" %}
+{% include figure.html src="/public/images/Blog-30-10-2018/say-works-on-my-machine.jpg" %}
 
 ## Some basic terminology 
 
