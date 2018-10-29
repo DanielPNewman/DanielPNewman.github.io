@@ -1,4 +1,4 @@
-Wow, it's been 2 years since I last wrote a blog post. Since then I finished work as a neuroscientist and started a data science job at [SEEK][1]. Loving the career change, I’m working in the AI platform services team where I use machine learning (ML) to help improve the efficiency of employment markets. I’m lucky to be surrounded by some excellent experienced data scientists and engineers and learnt many useful skills. I plan to start blogging again to share some of the useful things I've picked up over the last 2 years.
+Wow, it's been 2 years since I last wrote a blog post. Since then I finished work as a neuroscientist and started a data science job at [SEEK][1]. Loving the career change, I’m working in the AI platform services team where I use machine learning (ML) to help improve the efficiency of employment markets. I’m lucky to be surrounded by some excellent experienced data scientists and engineers and have learnt many useful skills. I plan to start blogging again to share some of the useful things I've picked up over the last 2 years.
 
 One of the most useful and versatile tools I’ve picked up to help data science workflow is [Docker][2].
 
