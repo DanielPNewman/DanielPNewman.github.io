@@ -5,16 +5,21 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
-  * **Big Debt Crises**, by Ray Dalio
-  
+  * re-reading **Principles**, by Ray Dalio 
+  * **Thinking in Bets** by Annie Duke
+  *  **The Lean Startup** by Eric Ries   
 
-## Past Great Reads
+## Past great reads which I'd recommend 
+
+  * **Liar's Poker** by Michael Lewis 
 
   * **Factfulness**, by Hans Rosling, Anna Rosling Rönnlund and Ola Rosling
 
   * **Principles**, by Ray Dalio  
 
   * **Vagabonding**, by Rolf Potts 
+
+  * **Good Derivatives** by Richard L Sandor and Ronald Coase
 
   * **Hedgehogging**, by Barton Biggs 
 

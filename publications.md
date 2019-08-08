@@ -7,6 +7,9 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
+Kempen Jv, Loughnane G. M, **Newman** D. P, Kelly S. P, Thiele A, O’Connell R. G, and Bellgrove M. A. 2019. [Behavioural and neural signatures of perceptual decision-making are modulated by pupil-linked arousal.][11] *Elife*, 8, 1–
+43; doi: 10.7554/elife.42541
+
 Loughnane G. M., **Newman**, D.P., Tamang, S., Kelly, S.P & O’Connell, R.G (2018). [Antagonistic interactions between microsaccades and evidence accumulation processes during decision formation.][10] *Journal of Neuroscience* 38 (9) 2163-2176. DOI: https://doi.org/10.1523/JNEUROSCI.2340-17.2018
 
 **Newman**, D.P., Loughnane G. M., Kelly, S.P., O’Connell, R.G., & Bellgrove, M.A (2017)  [Visuospatial asymmetries arise from differences in the onset time of perceptual evidence accumulation.][9] *Journal of Neuroscience*  37 (12) 3378-3385; DOI: https://doi.org/10.1523/JNEUROSCI.3512-16.2017
@@ -38,24 +41,6 @@ Bellgrove, M. A., Eramudugolla, R., **Newman**, D. P., Vance, A., & Mattingley, 
 
 Society for Neuroscience (Chicago, 20<sup>th</sup> of Oct 2015).  *Ocular exposure to short wavelength light modulates behavioural and electrophysiological markers of spatial attention bias.*
 
-Deakin University Cognitive Neuroscience Unit (CNU) Monthly Meeting (13<sup>th</sup> of Nov 2014). *Spatial Attention Asymmetries in Healthy Populations and in Disorders of Attention.* ([CNU’s Blog about my Talk is here](http://cogexneuro.blogspot.com.au/2014/11/spatial-attention-asymmetries-in.html))
-
-Monash Biomedical Imaging Science Seminar. (11th of July 2013). *Tracing the formation of perceptual decisions in the human brain: A new approach to the study of visuospatial attention asymmetries.*
-
-## Conference Abstracts (posters)
-
-**Newman** DP, Loughnane GM, Kelly SP, O’Connell RG, Bellgrove MA (2014). Visuospatial attention bias and ADHD: A behavioural and electrophysiological analysis. *4th Annual Conference of Biological Psychiatry Australia (BPA), 2014.*
-
-**Newman** DP, Loughnane GM, Abe R, Zoratti MT, Kelly SP, O’Connell RG, Bellgrove MA (2014). Inter-hemispheric activation asymmetry and trial-to-trial fluctuations in alertness: An electrophysiological and pupillometric investigation. *12th International Conference on Cognitive Neuroscience, 2014.*
-
-**Newman** DP, Cummins TDR, Tong JHS, Johnson BP, Pickering HP, Fanning P, Wagner J, Goodrich JTT, Hawi Z, Chambers CD, & Bellgrove MA. (2014). Dopamine transporter genotype is associated with a lateralised resistance to distraction during attention selection. *12th International Conference on Cognitive Neuroscience, 2014.*
-
-Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell, RG (2014). Visuo-spatial attention influences the rate of evidence accumulation during perceptual decision making. *12th International Conference on Cognitive Neuroscience, 2014.*
-
-Wagner J, **Newman** DP, Loughnane GM, Kelly SP, O’Connell RG, Bellgrove MA (2014). Visuospatial attention bias is related to attention-deficit/hyperactivity disorder (ADHD) symptomology: A behavioural and electrophysiological analysis. *12th International Conference on Cognitive Neuroscience, 2014.*
-
-Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell, RG (2013). Visuo-spatial attention asymmetries are indexed by a temporal lag in the accumulation of sensory evidence. *2013 Neuroscience Meeting Planner. San Diego. Society for Neuroscience, 2013. Online.*
-
 ## GitHub
 [My GitHub Account][8] 
 
@@ -69,3 +54,4 @@ Loughnane, GM, **Newman**, DP, Kelly, SP, Lalor, EC, Bellgrove, MA & O’Connell
  [8]: https://github.com/DanielPNewman
  [9]: http://www.jneurosci.org/content/37/12/3378
  [10]: http://www.jneurosci.org/content/38/9/2163
+ [11]: https://elifesciences.org/articles/42541
