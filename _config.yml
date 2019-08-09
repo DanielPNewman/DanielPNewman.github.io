@@ -10,7 +10,7 @@ permalink:           /:title/
 # Setup
 title:               Daniel P Newman
 tagline:             ''
-description:         'personal website and blog of Daniel P. Newman'
+description:         'personal website and blog for a data scientist, neuroscientist and investment enthusiast'
 baseurl:             ''
 paginate:            5
 paginate_path:       "/my-blog/page:num/"
@@ -20,7 +20,7 @@ paginate_path:       "/my-blog/page:num/"
 author:
   name:              Daniel P Newman
   url:               http://dpnewman.com
-  
+
 
 # Excludes
 exclude: [".editorconfig", ".gitignore", "CNAME", "Gemfile", "Gemfile.lock", "README.md"]
@@ -29,8 +29,8 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
-  
-  
+
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
