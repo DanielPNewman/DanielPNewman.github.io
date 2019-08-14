@@ -25,7 +25,7 @@ author:
 # Excludes
 exclude: [".editorconfig", ".gitignore", "CNAME", "Gemfile", "Gemfile.lock", "README.md"]
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
