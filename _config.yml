@@ -36,3 +36,13 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   hard_wrap: false
+
+# seo-tag
+twitter:
+  username: DanielPNewman
+social:
+  name: Daniel P Newman
+  links:
+    - https://github.com/DanielPNewman
+    - https://twitter.com/DanielPNewman
+    - https://www.linkedin.com/in/daniel-newman-5a237b66/
