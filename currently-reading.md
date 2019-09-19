@@ -5,45 +5,50 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
-  * re-reading **Principles**, by Ray Dalio 
-  * **Thinking in Bets** by Annie Duke  
+  * re-reading **Principles:** Life and Work, by *Ray Dalio*
+  * **Thinking in Bets:** Making Smarter Decisions When You Don't Have All the Facts, by *Annie Duke*
+  * **The Lessons of History**, by *Will and Ariel Durant*
+  * **The Five Love Languages**, by *Gary Chapman*
+  * **How to Develop Your Personal Mission Statement**, by *Stephen R. Covey*
 
-## Past great reads which I'd recommend 
+## Past great reads which I'd recommend
 
-  * **Liar's Poker** by Michael Lewis 
+  * **Lee Kuan Yew:** The Grand Master’s Insights on China, United States, and the World, by *Graham Allison, Michael McConnohie, et al.* 
 
-  * **Factfulness**, by Hans Rosling, Anna Rosling Rönnlund and Ola Rosling
+  * **Liar's Poker** Rising through the Wreckage on Wall Street, by *Michael Lewis*
 
-  * **Principles**, by Ray Dalio  
+  * **Factfulness:** Ten Reasons We're Wrong About the World―and Why Things Are Better Than You Think, *by Hans Rosling, Anna Rosling Rönnlund and Ola Rosling*
 
-  * **Vagabonding**, by Rolf Potts 
+  * **Principles:** Life and Work, by *Ray Dalio*
 
-  * **Good Derivatives** by Richard L Sandor and Ronald Coase
+  * **Vagabonding** An Uncommon Guide to the Art of Long-Term World Travel, by *Rolf Potts* 
 
-  * **Hedgehogging**, by Barton Biggs 
+  * **Good Derivatives:**  A Story of Financial and Environmental Innovation, by *Richard L Sandor and Ronald Coase*
 
-  * **The Spider Network**, by David Enrich
+  * **Hedgehogging**, by *Barton Biggs* 
 
-  * **Tools of Titans**, by Tim Ferris 
+  * **The Spider Network:** How a Math Genius and a Gang of Scheming Bankers Pulled Off One of the Greatest Scams in History, by *David Enrich*
 
-  * **Surely You’re Joking**, Mr Feynman! by Richard P. Feynman   
+  * **Tools of Titans:** The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers, by *Tim Ferris*
 
-  * **Funny in Farsi**, by Firoozeh Dumas 
+  * **Surely You’re Joking, Mr Feynman!** Adventures of a Curious Character, by *Richard P. Feynman* 
 
-  * **The Little Book of Market Wizards**, by Jack D. Schwager 
+  * **Funny in Farsi:** A Memoir of Growing Up Iranian in America, by *Firoozeh Dumas*
 
-  * **Thinking, Fast and Slow**, by Daniel Kahneman  
+  * **The Little Book of Market Wizards:** Lessons from the Greatest Traders, by *Jack D. Schwager*
 
-  * **The Signal and the Noise:** Why So Many Predictions Fail — but Some Don’t,  by Nate Silver
+  * **Thinking, Fast and Slow**, by *Daniel Kahneman*
 
-  * **Musicophilia**: Tales of Music and the Brain,  by Oliver Sacks
+  * **The Signal and the Noise:** Why So Many Predictions Fail — but Some Don’t,  by *Nate Silver*
 
-  * **Consciousness:** Confessions of a Romantic Reductionist,  by Christof Koch
+  * **Musicophilia**: Tales of Music and the Brain, by *Oliver Sacks*
 
-  * **What the Dog Saw**: And Other Adventures,  by Malcolm Gladwell
+  * **Consciousness:** Confessions of a Romantic Reductionist,  by *Christof Koch*
 
-  * **Freakonomics**: A Rogue Economist Explores the Hidden Side of Everything, by Steven D. Levitt and Stephen J. Dubner
+  * **What the Dog Saw**: And Other Adventures, by *Malcolm Gladwell*
 
-  * **Born On A Blue Day**: Inside the Extraordinary Mind of an Autistic Savant,  by Daniel Tammet
+  * **Freakonomics**: A Rogue Economist Explores the Hidden Side of Everything, by *Steven D. Levitt and Stephen J. Dubner*
 
-  * **Blink**: The Power of Thinking Without Thinking, by Malcolm Gladwell
+  * **Born On A Blue Day**: Inside the Extraordinary Mind of an Autistic Savant,  by *Daniel Tammet*
+
+  * **Blink**: The Power of Thinking Without Thinking, by *Malcolm Gladwell*
