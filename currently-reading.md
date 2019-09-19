@@ -6,8 +6,7 @@ layout: page
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
   * re-reading **Principles**, by Ray Dalio 
-  * **Thinking in Bets** by Annie Duke
-  *  **The Lean Startup** by Eric Ries   
+  * **Thinking in Bets** by Annie Duke  
 
 ## Past great reads which I'd recommend 
 
@@ -31,7 +30,7 @@ A list of books I’m enjoying, and have enjoyed reading in the past:
 
   * **Funny in Farsi**, by Firoozeh Dumas 
 
-  * **The Little Book of Markey Wizards**, by Jack D. Schwager 
+  * **The Little Book of Market Wizards**, by Jack D. Schwager 
 
   * **Thinking, Fast and Slow**, by Daniel Kahneman  
 
