@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Scientific Publications
 permalink: /publications/
 layout: page
 ---
@@ -41,8 +41,6 @@ Bellgrove, M. A., Eramudugolla, R., **Newman**, D. P., Vance, A., & Mattingley, 
 
 Society for Neuroscience (Chicago, 20<sup>th</sup> of Oct 2015).  *Ocular exposure to short wavelength light modulates behavioural and electrophysiological markers of spatial attention bias.*
 
-## GitHub
-[My GitHub Account][8] 
 
  [1]: http://scholar.google.com.au/citations?user=P0CiRYkAAAAJ&hl=en
  [2]: http://www.sciencedirect.com/science/article/pii/S0028393214003224
