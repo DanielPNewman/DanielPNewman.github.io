@@ -14,5 +14,10 @@ I am currently on a 12 month sabbatical vagabonding around Asia with my wife [Am
 
 {% include figure.html src="public/images/IMG_5834.jpg" %}
 
-[1]: http://dpnewman.com/publications/
+## Contact
+Reach me via twitter [(@DanielPNewman)][3] or [LinkedIn][4].
+
+[1]: https://dpnewman.com/publications/
 [2]: https://amyquinton.github.io/
+[3]: https://twitter.com/DanielPNewman
+[4]: https://www.linkedin.com/in/daniel-newman-5a237b66/
