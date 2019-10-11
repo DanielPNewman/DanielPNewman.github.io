@@ -4,7 +4,7 @@ permalink: /principles/
 layout: page
 ---
 
-I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of successfully dealing with reality to get what you want out of life". I also valued [Derek Sivers' directives][2] for how to get what you want. Both Ray and Derek make good arguments for everybody sharing their own principles and directives. I liked their reasoning so I've started sharing some principles and directives that resonate with me here. This is a living document which I will update with new principles that I find useful. 
+I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of successfully dealing with reality to get what you want out of life". I also valued [Derek Sivers' directives][2] for how to get what you want. Both Ray and Derek make good arguments for everybody sharing their own principles and directives. I liked their reasoning so I've started sharing some principles and directives that resonate with me here. This is a living document that I will update with new things that I find useful. 
 
 ## Principles I’ve arrived at through my own struggles:
 
@@ -36,15 +36,15 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 
 **Remember that in terms of wellbeing, the marginal benefits of being very wealthy (over and above comfortably having the basics - saftey, good relationships, good food, a comfortable bed, good sex) decrease the more wealth you get.**
 
-- Ray Dalio has gone from having nothing to having an extreme amount of material success, and he observed this in his own life and wrote about it in his book Principles. It stood out to me as being important to remember.
+- Ray Dalio has experienced having nothing to having an extreme amount of material success, and he observed this in his own life and wrote about it in his book Principles. It stood out to me as being important to remember, regardless of your level of material success.
 
 **Find out what your gifts are, then use them in a way that helps others, and also helps yourself, so that you stay motivated to keep going.**
 
-- Important to have your own incentives in place to keep going.
+- Important to have your own incentives in place to keep you going.
 
 **Money is a tool that can help you achieve your goals. Having money is not a goal in and of itself.**
 
-- First define what I want, then work backwards from there to figure out how to get it. Money is not actually what I want, it is just one of the tools to make getting what I want easier.
+- First define what I want, then work backwards from there to figure out how to get it. Money is not actually what I want, it is just a tools to make getting what I want easier.
 
 
 **When you make a mistake or struggle a lot, remember to reflect on and learn from the experience.**
@@ -101,7 +101,7 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 
 - I got this one from talking to Amy. Also, Bill Gates says something like 'most people overestimate how much should be achievable in 1 year and underestimate how much is achievable in 10 years'.
 
-**Think in bets to help decisions**
+**Think in bets to help make decisions**
 
 - Got this from Annie Duke 
 
