@@ -60,14 +60,14 @@ Themes emerged, in terms of my strengths weaknesses, from the feedback of people
 	- This has been a weakness since childhood, but thankfully later it did not stop me from excelling during highschool/university since I was able to use other strengths to get around this.
 
 
-- **Worrying and imagining too many ways things could go go wrong**  
+- **Worrying and imagining too many ways things could go wrong**  
  
 	- I have an innate tendency to worry too much about some things, even though history shows that most of these things did not matter in hindsight.
-	- A [principle][5] that I try to keep in mind because of this is, "don’t sweat the small stuff". 
+	- A [principle][5] that I try to keep in mind because of this is "don’t sweat the small stuff". 
 
 - **Drinking to excess**
 
-	- I immensely enjoy socialising over drinks and others enjoy my company, but this has occasionally lead me to consume far too many drinks in a session, which is not ideal for my health or saftey.
+	- I immensely enjoy socialising over drinks and others enjoy my company, but this has occasionally led me to consume far too many drinks in a session, which is not ideal for my health or saftey.
 	- Thankfully it's never yet lead to other problems apart from a headache and an annoyed partner, but I find it helpful to explicitly recognise it as a weakness of mine. This keeps me alert to the risk, which I believe makes it easier not to binge.
 
 
@@ -75,8 +75,7 @@ Themes emerged, in terms of my strengths weaknesses, from the feedback of people
 
 What to do with one’s life? 
 
-With so many worthy things one could spend effort on, and only limited time on earth, prioritisation and goal setting becomes an important and difficult task.  I created a high level personal “mission statement” as a guiding ‘north star’ when checking if the way I spend my time is in line with how I say I want to live.
-
+With so many worthy things one could spend effort on, and only limited time on earth, prioritisation and goal setting becomes an important and difficult task.  I created a high level personal “mission statement” as a guiding ‘north star’ to come back to when checking if the way I spend my time is in line with how I say I want to live.
 
 **My mission is to:**
 
