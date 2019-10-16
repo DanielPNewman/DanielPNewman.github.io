@@ -125,7 +125,7 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 	- I got this one from talking to Amy. Also, Bill Gates says something like 'most people overestimate how much should be achievable in 1 year and underestimate how much is achievable in 10 years'.
 
 ***
-- **Think in bets to help make decisions ...** especially when you need to make a decusuion without having all the information you need
+- **Think in bets to help make decisions ...** especially when you need to make a decision without having all the information you need
 
 	- Got this from Annie Duke 
 
