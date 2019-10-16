@@ -6,9 +6,10 @@ layout: page
 
 I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of successfully dealing with reality to get what you want out of life". I also valued [Derek Sivers' directives][2] for how to get what you want. Both Ray and Derek make good arguments for everybody sharing their own principles and directives. I liked their reasoning so I've started sharing some principles and directives that resonate with me here. This is a living document that I will update with new things that I find useful. 
 
+***
+
 ## Principles I’ve arrived at through my own struggles:
 
-***
 **Listen intently to people and ask them questions, because you never know where this will lead.**
 
 - If nothing else, people really appreciate it when you listen to them properly.
@@ -37,9 +38,10 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 
 - ...and be humble/realistic about what your weaknesses are.
 
+***
+
 ## Principles from Ray Dalio that resonated with me
 
-***
 **Remember that in terms of wellbeing, the marginal benefits of being very wealthy (over and above comfortably having the basics - saftey, good relationships, good food, a comfortable bed, good sex) decrease the more wealth you get.**
 
 - Ray Dalio has experienced having nothing to having an extreme amount of material success, and he observed this in his own life and wrote about it in his book Principles. It stood out to me as being important to remember, regardless of your level of material success.
@@ -89,9 +91,10 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 
 - e.g. either communism or capitalism (of the current U.S. type) is a false dichotomy.
 
+***
+
 ## Principles from others
 
-***
 **Don't apply labels to yourself. The more labels you apply to yourself, the stupider you become**...and the more prone you are to groupthink. 
 
 - I heard this from Tim Ferris, who got it from computer scientist Paul Graham, I think.
