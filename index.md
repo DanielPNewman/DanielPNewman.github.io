@@ -22,7 +22,7 @@ I love focusing on understanding problems and opportunities with large impact/sc
 
 ## Strengths and Weaknesses 
 
-One of my faviourite [principles/directives][5] for getting what you want is: **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**  So, I've made an effort to start identifying my own strengths and weaknesses, by reflecting and also asking people who I've been involved with over the years for their opinions. 
+One of my faviourite [principles/directives][5] for getting what you want is: **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**  So, I've made an effort to start identifying my own strengths and weaknesses, by reflecting and also asking people who I've been involved with over the years. 
 
 Themes emerged, in terms of my strengths weaknesses, from the feedback of people I've worked closely with over the years.
 
