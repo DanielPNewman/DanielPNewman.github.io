@@ -71,11 +71,11 @@ Themes emerged, in terms of my strengths weaknesses, from the feedback of people
 	- Thankfully it's never yet lead to other problems apart from a headache and an annoyed partner, but I find it helpful to explicitly recognise it as a weakness of mine. This keeps me alert to the risk, which I believe makes it easier not to binge.
 
 
-## Personal Mission Statement
+## Mission Statement
 
 What to do with one’s life? 
 
-With so many worthy things one could spend effort on, and only limited time in which to do it, prioritisation and goal setting becomes an important and difficult task.  I created a high level, personal “mission statement” to be a guiding ‘north star’ to help make sure the way I spend my time is in line with how I say I want to live.
+With so many worthy things one could spend effort on, and only limited time on earth, prioritisation and goal setting becomes an important and difficult task.  I created a high level personal “mission statement” as a guiding ‘north star’ when checking if the way I spend my time is in line with how I say I want to live.
 
 
 **My mission is to:**
