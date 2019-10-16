@@ -15,14 +15,14 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 	- If nothing else, people really appreciate it when you listen to them properly.
 
 ***
-- **If I have high conviction on investing in an area/theme, it's better to spread bets across players within the theme, rather than going all in on one player.**
+- **If I have high conviction on investing in an area/theme, I'd be better to spread bets across players within the theme, rather than betting on only one player per theme.**
 
-	- Past mistakes have taught me this across three such situations, investing in: 1. Lithium; 2. Semiconductors and 3. Water treatment in China. For each of these I correctly identified areas/themes ripe for huge growth, and I had high conviction, and I invested at a time when there was still plenty of growth ahead. I tried to pick a single stock within each of these to invest in. This worked out ok, but I would have made more money with less volatility if I had spread my bets across a few players in each theme instead of trying to pick just one per theme.
+	- Past mistakes have taught me this across three such situations, investing in: 1. Lithium miners; 2. Semiconductor producers and 3. Water treatment in China. For each of these I correctly identified areas/themes ripe for huge growth, and I had high conviction, and I invested at a time when there was still plenty of growth ahead. I tried to pick a single stock within each of these to invest in. This worked out ok, but I would have made more money with less volatility if I had spread my bets across a few players in each theme instead of trying to pick just one per theme.
 
 ***
 - **Don’t sweat the small stuff**
 
-	- I have an innate tendency to worry too much about some things, even though history shows that most of these things did not matter in hindsight. So I would have been better-off by not worrying too much.
+	- I have a tendency to worry too much about some things, even though history shows that most of these things did not matter in hindsight. So I would have been better-off by not worrying too much.
 
 ***
 - **Before making a new purchase ask:**
@@ -34,7 +34,7 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 	- helps to avoid useless consumption.
 
 ***	
-- **Know your strengths and use them. Know your weaknesses and partner with others who have complementary strengths.**
+- **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**
 
 	- ...and be humble/realistic about what your weaknesses are.
 
