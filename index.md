@@ -22,7 +22,11 @@ I love focusing on understanding problems and opportunities with large impact/sc
 
 ## Strengths and Weaknesses 
 
-One of my faviourite [principles/directives][5] for getting what you want is: **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**  So, I've made an effort to start identifying my own strengths and weaknesses, by reflecting and also asking people who I've been involved with over the years. 
+One of my faviourite [principles/directives][5] for getting what you want is:
+ 
+- **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**  
+
+So, I've made an effort to start identifying my own strengths and weaknesses, by reflecting and also asking people who I've been involved with over the years. 
 
 Themes emerged, in terms of my strengths weaknesses, from the feedback of people I've worked closely with over the years.
 
@@ -73,9 +77,9 @@ Themes emerged, in terms of my strengths weaknesses, from the feedback of people
 
 ## Mission Statement
 
-What to do with one’s life? 
+What to do with my life? 
 
-With so many worthy things one could spend effort on, and only limited time on earth, prioritisation and goal setting becomes an important and difficult task.  I created a high level personal “mission statement” as a guiding ‘north star’ to come back to when checking if the way I spend my time is in line with how I say I want to live.
+Bring in the privileged position of having a choice of many worthy things that I *could* spend my effort on, and only limited time on earth, prioritisation and goal setting becomes an important, and difficult, task.  To help, I created a high level personal “mission statement” as a guiding ‘north star’ used to check in and see if the way I spend my time is in line with how I want to live.
 
 **My mission is to:**
 
@@ -84,7 +88,7 @@ With so many worthy things one could spend effort on, and only limited time on e
 
 **To help with my mission/s I will aim to do the following:**
 
-1. Always keep learning, growing and refining.
+1. Always keep learning, growing and refining my mind.
 2. Always either maintain or improve health/fitness.
 3. Work to solve impactful problems.
 4. Save diligently, invest wisely, and be generous with the results of that.
