@@ -214,7 +214,7 @@ We plan to keep refining our All-Weather portfolios / approach as time permits, 
 
 ## Questions & Answers
 
-As we were trying to understand Bridgewater's All-Weather principles, some obvious questions occurred (and were flagged) to us, which we are addressed below.
+As we were trying to understand Bridgewater's All-Weather principles, some obvious questions occurred (and were flagged) to us, which are addressed below.
 
 Of course, we cannot comprehensively cover everything here. If you’re after a deeper understanding, we recommend reading Bridgewater Associates’ 2015 article ‘[Our thoughts about Risk Parity and All Weather][43]’, which addresses common questions and misconceptions about risk parity and All-Weather.
 
