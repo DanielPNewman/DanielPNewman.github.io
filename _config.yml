@@ -14,7 +14,7 @@ description:         'personal website and blog for a data scientist, neuroscien
 baseurl:             ''
 paginate:            5
 paginate_path:       "/my-blog/page:num/"
-
+future: true
 
 # About/contact
 author:
