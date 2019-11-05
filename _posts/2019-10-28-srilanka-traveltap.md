@@ -141,7 +141,7 @@ Stay at [Peak house][5] for all your filtered water needs! We enjoyed the water 
 
 Smart and experienced travellers around the world are seeking out alternatives to unnecessary and harmful single-use plastics. Forward thinking businesses and organisations are already offering solutions. Others are still developing the awareness and resources to do so.
 
-So, now you know, join your fellow travellers in kicking the single-use plastic habit. Support organisations offering solutions and let locals know you want to help keep their country beautiful and ocean life healthy by not leaving a trail of plastic waste behind you.
+So, now you know, join your fellow travellers in kicking the single-use plastic habit. Support organisations offering solutions and let locals know you want to help keep their country beautiful, and ocean life healthy, by not leaving a trail of plastic waste behind you.
 
 >### Travel App feature?
 >
