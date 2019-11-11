@@ -8,8 +8,6 @@ A list of books I’m enjoying, and have enjoyed reading in the past:
   * re-reading **Principles:** Life and Work, by *Ray Dalio*
   
   * **Thinking in Bets:** Making Smarter Decisions When You Don't Have All the Facts, by *Annie Duke*
-  
-  * **The Five Love Languages**, by *Gary Chapman*
 
 
 ## Past great reads which I'd recommend
@@ -17,6 +15,8 @@ A list of books I’m enjoying, and have enjoyed reading in the past:
   * **How to Develop Your Personal Mission Statement**, by *Stephen R. Covey*
 
   * **The Lessons of History**, by *Will and Ariel Durant*
+
+  * **The Five Love Languages**, by *Gary Chapman*
 
   * **Lee Kuan Yew:** The Grand Master’s Insights on China, United States, and the World, by *Graham Allison, Michael McConnohie, et al.* 
 
