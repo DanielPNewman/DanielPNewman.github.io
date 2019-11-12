@@ -5,7 +5,7 @@ author: Daniel Newman
 description: Teaching a lawyer programming for data analysis and visualisation
 ---
 
-[Amy][7] works as a Lawyer and environmental sustainability consultant, and wanted to know some programming for data analysis/communicaiton to help uncover and share useful environmental sustainability insights. I work as a Data Scientist so taught her some of my trade's tools to help set up [her own github account][14] and then learn the `R`, `Git` and `*nix` commands nessary for her to:
+[Amy][7] works as a Lawyer and environmental sustainability consultant. She wanted to now some programming for data analysis/communicaiton to help uncover and share useful environmental sustainability insights. I work as a Data Scientist so taught her some of my trade's tools to help set up [her own github account][14] and then learn the `R`, `Git` and `*nix` commands nessary for her to:
 
 1. pull environmental data from a google sheets URL, 
 2. process it,
@@ -21,7 +21,7 @@ This was a satisifying and educational process for us both:
 
 And it led to publishing an excellent and thought provoking post: [Project Drawdown solutions meet many Sustainable Development Goals][16]. Certainly worth a read!
 
-On reflection, I realised that data scientists have a bunch of skills that are very useful to other professions and people with other skill sets. So I encourage data scientist to teach others some of the basic tools of our trade. Because this empowers others with new tools to explore and communicate data through the multiple lenses of many diverse areas of domain expertiease. 
+On reflection, I encourage data scientist to teach others some of the basic tools of our trade. Because this empowers others with new tools to explore and communicate data through the multiple lenses of many diverse areas of domain expertiease. 
 
 Amy said that "for me, programing for data analysis and online communication is such an unknown area that it's hard to know where to start. So to have somebody who can walk you through some of the basics to get you started is really empowering!"
 
