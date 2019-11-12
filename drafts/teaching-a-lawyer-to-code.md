@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching a Lawyer to code? An Lawyer learning programming for data analysis/communication
+title: Teaching a Lawyer to code? A Lawyer learns programming for data analysis/communication
 author: Daniel Newman
 description: Teaching a lawyer programming for data analysis and visualisation
 ---
