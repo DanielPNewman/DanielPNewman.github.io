@@ -19,7 +19,11 @@ This was a satisifying and educational process for us both:
 
 - I learnt about some facinating ideas about how Project Drawdown’s solutions apply to the 17 Sustainable Development Goals (SDGs). 
 
-And it lead to publishing an excellent and thought provoking post: [Project Drawdown solutions meet many Sustainable Development Goals][16]. Certainly worth a read!
+And it led to publishing an excellent and thought provoking post: [Project Drawdown solutions meet many Sustainable Development Goals][16]. Certainly worth a read!
+
+On reflection, I realised that data scientists have a bunch of skills that are very useful to other professions and people with other skill sets. So I encourage data scientist to teach others some of the basic tools of our trade. Because this empowers others with new tools to explore and communicate data through the multiple lenses of many diverse areas of domain expertiease. 
+
+Amy said that "for me, programing for data analysis and online communication is such an unknown area that it's hard to know where to start. So to have somebody who can walk you through some of the basics to get you started is really empowering!"
 
 
 
