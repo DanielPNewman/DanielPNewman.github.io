@@ -21,7 +21,7 @@ This was a satisifying and educational process for us both:
 
 And it led to publishing an excellent and thought provoking post: [Project Drawdown solutions meet many Sustainable Development Goals][16]. Certainly worth a read!
 
-On reflection, I encourage data scientist to teach others some of the basic tools of our trade. Because this empowers others with new tools to explore and communicate data through the multiple lenses of many diverse areas of domain expertiease. 
+On reflection, I encourage all data scientists to spend a little time teaching others (who want to learn) some of the basic tools of our trade. This can empower people (especially those from more "traditional" fields such as law) with new tools to explore and communicate data. It can only be a good thing if the ever increasing volumes of digital data are more often explored through multiple lenses of diverse areas of domain expertise.
 
 Amy said that "for me, programming for data analysis and online communication is such an unknown area that it's hard to know where to start. So to have somebody who can walk you through some of the basics to get you started is really empowering!"
 
