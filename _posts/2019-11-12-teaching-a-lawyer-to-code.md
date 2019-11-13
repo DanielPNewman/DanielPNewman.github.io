@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching a Lawyer to code? A Lawyer learns programming for data analysis/communication
+title: Teaching Lawyers to code? A Lawyer learns programming for data analysis/communication
 author: Daniel Newman
 description: Teaching a lawyer programming for data analysis and visualisation
 ---
@@ -23,7 +23,7 @@ And it led to publishing an excellent and thought provoking post: [Project Drawd
 
 On reflection, I encourage all data scientists to spend a little time teaching others (who want to learn) some of the basic tools of our trade. This can empower people (especially those from more "traditional" fields such as law) with new tools to explore and communicate data. It can only be a good thing if the ever increasing volumes of digital data are more often explored through multiple lenses of diverse areas of domain expertise.
 
-Amy said that "for me, programming for data analysis and online communication is such an unknown area that it's hard to know where to start. So to have somebody who can walk you through some of the basics to get you started is really empowering!"
+Amy said that "for me, programming for data analysis and communication was such an unknown area that it was hard to know where to start. So to have somebody who can walk you through some of the basics to get you started is really empowering!"
 
 
 
