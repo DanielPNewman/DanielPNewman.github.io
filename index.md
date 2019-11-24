@@ -79,7 +79,9 @@ Themes emerged, in terms of my strengths weaknesses, from the feedback of people
 
 What to do with my life? 
 
-Bring in the privileged position of having a choice of many worthy things that I *could* spend my effort on, and only limited time on earth, prioritisation and goal setting becomes an important, and difficult, task.  To help, I created a high level personal “mission statement” as a guiding ‘north star’ used to check in and see if the way I spend my time is in line with how I want to live.
+Being in a privileged position with a choice of many worthy things that I *could* spend my effort on, and only limited time on earth, prioritisation and goal setting becomes an important, and difficult, task.  
+
+To help, I created a high level personal “mission statement” as a guiding ‘north star’ used to check in and see if the way I spend my time is in line with how I want to live.
 
 **My mission is to:**
 
