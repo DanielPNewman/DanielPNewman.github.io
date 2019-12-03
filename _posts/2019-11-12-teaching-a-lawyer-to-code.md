@@ -5,7 +5,7 @@ author: Daniel Newman
 description: Teaching a lawyer programming for data analysis and visualisation
 ---
 
-[Amy][7] works as a Lawyer and environmental sustainability consultant. She wanted to know some programming for data analysis/communicaiton to help uncover and share useful environmental sustainability insights. I work as a Data Scientist so taught her some of my trade's tools to help set up [her own github account][14] and then learn the `R`, `Git` and `*nix` commands nessary for her to:
+[Amy][7] works as a Lawyer and environmental sustainability consultant. She wanted to know some programming for data analysis/communication to help uncover and share useful environmental sustainability insights. I work as a Data Scientist so taught her some of my trade's tools to help set up [her own github account][14] and then learn the `R`, `Git` and `*nix` commands necessary for her to:
 
 1. pull environmental data from a google sheets URL, 
 2. process it,
@@ -13,11 +13,11 @@ description: Teaching a lawyer programming for data analysis and visualisation
 3. knit the results to `markdown` format
 4. and publish the results on her [own github pages blog][15].  
 
-This was a satisifying and educational process for us both: 
+This was a satisfying and educational process for us both: 
 
 - Amy learnt the data processing/visualisation skills needed to uncover and communicate environmental sustainability insights (more on those below). 
 
-- I learnt about some facinating ideas about how Project Drawdown’s solutions apply to the 17 Sustainable Development Goals (SDGs). 
+- I learnt about some fascinating ideas about how Project Drawdown’s solutions apply to the 17 Sustainable Development Goals (SDGs). 
 
 And it led to publishing an excellent and thought provoking post: **[Project Drawdown solutions meet many Sustainable Development Goals][16]**. Certainly worth a read!
 
