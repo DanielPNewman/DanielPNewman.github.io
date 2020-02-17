@@ -4,7 +4,7 @@ layout: page
 
 Below is a little personal info, and my blog is found in the menu (top left).
 
-I am currently on a 12 month sabbatical vagabonding around Asia with my wife [Amy][2]:
+I am currently on a 12 month sabbatical vagabonding around Asia and South/Central America with my wife [Amy][2]:
 
 {% include figure.html src="public/images/IMG_5834.jpg" %}
 
@@ -16,7 +16,7 @@ Before my data science career, I completed a [PhD][1] in cognitive neuroscience 
 
 ## Interests
 
-Topics mainly within these areas: data science, the human brain, markets, economics, investing, human behaviour, psychology and sustainability. 
+Topics mainly within these areas: data science, investing, the human brain, markets, economics, human behaviour, psychology and sustainability. 
 
 I love focusing on understanding problems and opportunities with large impact/scale, hypothesis formation and testing, modelling and engineering to make solutions that help people or increase efficiency. 
 
@@ -68,12 +68,6 @@ Themes emerged, in terms of my strengths weaknesses, from the feedback of people
  
 	- I have an innate tendency to worry too much about some things, even though history shows that most of these things did not matter in hindsight.
 	- A [principle][5] that I try to keep in mind because of this is "don’t sweat the small stuff". 
-
-- **Drinking to excess**
-
-	- I immensely enjoy socialising over drinks and others enjoy my company, but this has occasionally led me to consume far too many drinks in a session, which is not ideal for my health or saftey.
-	- Thankfully it's never yet lead to other problems apart from a headache and an annoyed partner, but I find it helpful to explicitly recognise it as a weakness of mine. This keeps me alert to the risk, which I believe makes it easier not to binge.
-
 
 ## Mission Statement
 
