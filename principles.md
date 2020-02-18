@@ -20,6 +20,11 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 	- Past mistakes have taught me this across three such situations, investing in: 1. Lithium miners; 2. Semiconductor producers and 3. Water treatment in China. For each of these I correctly identified areas/themes ripe for huge growth, and I had high conviction, and I invested at a time when there was still plenty of growth ahead. I tried to pick a single stock within each of these to invest in. This worked out ok, but I would have made more money with less volatility if I had spread my bets across a few players in each theme instead of trying to pick just one per theme.
 
 ***
+- **Ensure understanding by all parties before locking in any decisions and use both written and verbal communication to do this.**
+
+	-  Although it applies to all areas of planning, I learnt this principle/directive while planning travel adventures with friends! Text messages/emails alone have lead to accidently misaligned itineraries on too many occasions, teaching me that verbal as well as written communucation while planning is essential!
+	
+***
 - **Don’t sweat the small stuff**
 
 	- I have a tendency to worry too much about some things, even though history shows that most of these things did not matter in hindsight. So I would have been better-off by not worrying too much.
@@ -32,6 +37,11 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 	3. **Is it better to rent/hire this, or get this 2nd hand?**
 
 	- helps to avoid useless consumption.
+
+***
+- **If another person/party is in it similar situation to you, don’t assume you will definitely be driven to make similar decisions or have similar values**
+
+	- It is amazing to observe how much peoples' actions can differ in response to the same situation/circumstance. I have learnt it can be costly to assume others will behave the same as you given the same circumstance.
 
 ***	
 - **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**
