@@ -10,6 +10,8 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 
 ## Principles arrived at through my own struggles:
 
+
+***
 - **Listen intently to people and ask them questions, because you never know where this will lead.**
 
 	- If nothing else, people really appreciate it when you listen to them properly.
@@ -47,8 +49,6 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 - **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**
 
 	- ...and be humble/realistic about what your weaknesses are.
-
-***
 
 ## Principles from Ray Dalio that resonated with me:
 
