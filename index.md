@@ -10,6 +10,8 @@ I am currently on a 12 month sabbatical vagabonding around Asia and South/Centra
 
 ## Work
 
+You can find my [resume here][7].
+
 I now work as a Data Scientist, using machine learning to create efficiencies that help people and organisations succeed.
 
 Before my data science career, I completed a [PhD][1] in cognitive neuroscience and [worked][1] as a cognitive neuroscientist.
@@ -102,3 +104,4 @@ Reach me via twitter [(@DanielPNewman)][3] or [LinkedIn][4].
 [4]: https://www.linkedin.com/in/daniel-newman-5a237b66/
 [5]: https://dpnewman.com/principles/
 [6]: https://sivers.org/slow
+[7]: https://app.enhancv.com/share/fa82dfe1?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
