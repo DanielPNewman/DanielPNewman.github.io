@@ -5,12 +5,15 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
 
-  * re-reading **Principles:** Life and Work, by *Ray Dalio*
-  
-  * **Thinking in Bets:** Making Smarter Decisions When You Don't Have All the Facts, by *Annie Duke*
-
+  * **Life 3.0:** Being Human in the Age of Artificial Intelligence, by *Max Tegmark*
 
 ## Past great reads which I'd recommend
+
+  * **The Man Who Solved the Market:** How Jim Simons Launched the Quant Revolution, by *Gregory Zuckerman*
+
+  * **Thinking in Bets:** Making Smarter Decisions When You Don't Have All the Facts, by *Annie Duke*
+
+  * **Principles:** Life and Work, by *Ray Dalio*
 
   * **How to Develop Your Personal Mission Statement**, by *Stephen R. Covey*
 
@@ -23,8 +26,6 @@ A list of books I’m enjoying, and have enjoyed reading in the past:
   * **Liar's Poker** Rising through the Wreckage on Wall Street, by *Michael Lewis*
 
   * **Factfulness:** Ten Reasons We're Wrong About the World―and Why Things Are Better Than You Think, *by Hans Rosling, Anna Rosling Rönnlund and Ola Rosling*
-
-  * **Principles:** Life and Work, by *Ray Dalio*
 
   * **Vagabonding** An Uncommon Guide to the Art of Long-Term World Travel, by *Rolf Potts* 
 
