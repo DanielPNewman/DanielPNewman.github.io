@@ -30,7 +30,7 @@ One of my faviourite [principles/directives][5] for getting what you want is:
 
 So, I've made an effort to start identifying my own strengths and weaknesses, by reflecting and also asking people who I've been involved with over the years. 
 
-Themes emerged, in terms of my strengths weaknesses, from the feedback of people I've worked closely with over the years.
+Themes emerged, in terms of my strengths and weaknesses, from the feedback of people I've worked closely with over the years.
 
 ### Strengths:
 
