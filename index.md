@@ -4,7 +4,7 @@ layout: page
 
 Below is a little personal info, and my blog is found in the menu (top left).
 
-I have just finished a 9 month trip vagabonding around Asia and South/Central America with my wife [Amy][2]:
+I have just finished a 9.5 month trip vagabonding around Asia and South/Central America with my wife [Amy][2]:
 
 {% include figure.html src="public/images/IMG_5834.jpg" %}
 
