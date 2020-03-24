@@ -7,7 +7,7 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
-Kempen Jv, Loughnane G. M, **Newman** D. P, Kelly S. P, Thiele A, O’Connell R. G, and Bellgrove M. A. 2019. [Behavioural and neural signatures of perceptual decision-making are modulated by pupil-linked arousal.][11] *Elife*, 8, 1–
+Kempen Jv, Loughnane G. M, **Newman** D. P, Kelly S. P, Thiele A, O’Connell R. G, and Bellgrove M. A. (2019). [Behavioural and neural signatures of perceptual decision-making are modulated by pupil-linked arousal.][11] *Elife*, 8, 1–
 43; doi: 10.7554/elife.42541
 
 Loughnane G. M., **Newman**, D.P., Tamang, S., Kelly, S.P & O’Connell, R.G (2018). [Antagonistic interactions between microsaccades and evidence accumulation processes during decision formation.][10] *Journal of Neuroscience* 38 (9) 2163-2176. DOI: https://doi.org/10.1523/JNEUROSCI.2340-17.2018
