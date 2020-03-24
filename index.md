@@ -104,4 +104,4 @@ Reach me via twitter [(@DanielPNewman)][3] or [LinkedIn][4].
 [4]: https://www.linkedin.com/in/daniel-newman-5a237b66/
 [5]: https://dpnewman.com/principles/
 [6]: https://sivers.org/slow
-[7]: https://app.enhancv.com/share/652ce7cf?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+[7]: https://app.enhancv.com/share/15ba8a99?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
