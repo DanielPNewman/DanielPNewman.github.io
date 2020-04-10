@@ -99,7 +99,7 @@ Scroll down to [Table 2](#table-2-link) and for example portfolios that select o
 |Equities   | Vanguard Australian Shares Index ETF ([VAS][21]);<br>BetaShares Australia 			    200 ETF ([A200][22]);<br>BetaShares Australian Sustainability Leaders ETF 			  	([FAIR][23]);<br> Vanguard Index Australian Shares Fund ([VAN0010AU][24])|       
 |Long-term<br>Australian treasury<br>bonds (~20-25 yrs)| Long-term exchange-traded treasury bonds (ETBs):<br>- year of maturity - 2037 ([GSBG37][25]);<br>- year of maturity - 2039 ([GSBK39][25]);<br>- year of maturity - 2041 ([GSBI41][25]);<br>- year of maturity - 2047 ([GSBE47][25])|
 |Intermediate<br>Australian treasury<br>bonds (5-10 yrs) | Vanguard Australian Government Bond Index ETF ([VGB][26]);<br>BetaShares Australian Government Bond ETF (AGVT);<br>iShares government bond index ETF ([IGB][27])|
-|Gold| BetaShares Gold Bullion ETF - Currency Hedged ([QAU][28]);<br>ETFS Physical Gold (non-hedged) ([GOLD][29])|
+|Gold| BetaShares Gold Bullion ETF - Currency Hedged ([QAU][28]);<br>ETFS Physical Gold (non-hedged) ([GOLD][29]);<br>Perth Mint Gold ([PMGOLD][53])|
 |Commodities|BetaShares Commodities Basket ETF - Currency Hedged (synthetic) ([QCB][30])|
 
 
@@ -156,8 +156,8 @@ The historical performance plot in [Figure 2](#figure-2-link) below shows that o
 |Long-term treasury bonds (~20-25 yrs)|40% GSBK39 &/or GSBI41 &/or GSBE47* |25% GSBK39 &/or GSBI41 &/or GSBE47*|-|27% TLT|19% TLT|
 |Intermediate treasury bonds (~7-10 yrs)|15% IGB|15% IGB|51% VIF|22% BWX|23% BWX|
 |Inflation linked bonds|-|24% ILB|-|-|10% TIP;<br>5% WIP|
-|Gold|7.5% QAU|6% QAU|7% GOLD|7% GLD|6% GLD|
-|Commodities|7.5% QCB|6% QCB|6%  QCB|6% DBC|5% DBC|
+|Gold|7.5% PMGOLD|6% PMGOLD |7% GOLD|8% GLD|6% GLD|
+|Commodities|7.5% QCB|6% QCB|6%  QCB|7% DBC|5% DBC|
 
 
 ***
@@ -186,6 +186,7 @@ The historical performance plot in [Figure 2](#figure-2-link) below shows that o
 |IHEB|ASX|iShares J.P. Morgan USD Emerging Markets Bond (AUD Hedged) ETF|
 |QAU|ASX|BetaShares Gold Bullion ETF - Currency Hedged|
 |QCB|ASX|BetaShares Commodities Basket ETF - Currency Hedged (synthetic)|
+|PMGOLD|ASX|Perth Mint Gold ETF|
 |TIP|NYSE|iShares TIPS Bond ETF|
 |TLT|NASDAQ|iShares 20+ Year Treasury Bond ETF|
 |VAS|ASX|Vanguard Australian Shares Index ETF|
@@ -341,3 +342,4 @@ Want to know more about Bridgewater’s All-Weather investment strategy? See the
 [50]: http://mirca.github.io/
 [51]: http://www.danielppalomar.com/
 [52]: https://github.com/dppalomar/riskParityPortfolio
+[53]: https://www.perthmint.com/storage/perth-mint-gold-asx.html
