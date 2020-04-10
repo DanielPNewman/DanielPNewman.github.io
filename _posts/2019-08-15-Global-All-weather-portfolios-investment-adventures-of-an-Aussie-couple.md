@@ -304,7 +304,7 @@ Want to know more about Bridgewater’s All-Weather investment strategy? See the
 [12]: https://www.iwillteachyoutoberich.com/blog/all-weather-portfolio/
 [13]: https://www.bridgewater.com/resources/all-weather-story.pdf
 [14]: https://www.amazon.com.au/Money-Master-Game-Financial-Freedom-ebook/dp/B00NZWJD44/ref=sr_1_1?keywords=MONEY+Master+the+Game%3A+7+Simple+Steps+to+Financial+Freedom&qid=1565354779&s=gateway&sr=8-1
-[15]: https://yahoofinance.tumblr.com/post/102956492899/tony-robbins-ray-dalios-all-weather-portfolio
+[15]: https://finance.yahoo.com/news/tony-robbins--ray-dalio-s--all-weather--portfolio-161619133.html
 [16]: https://www.investopedia.com/terms/l/leverage.asp
 [17]: https://www.bridgewater.com/research-library/daily-observations/geographic-diversification-can-be-a-lifesaver/
 [18]: https://www.investopedia.com/terms/s/security.asp
