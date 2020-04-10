@@ -156,7 +156,7 @@ The historical performance plot in [Figure 2](#figure-2-link) below shows that o
 |Long-term treasury bonds (~20-25 yrs)|40% GSBK39 &/or GSBI41 &/or GSBE47* |25% GSBK39 &/or GSBI41 &/or GSBE47*|-|27% TLT|19% TLT|
 |Intermediate treasury bonds (~7-10 yrs)|15% IGB|15% IGB|51% VIF|22% BWX|23% BWX|
 |Inflation linked bonds|-|24% ILB|-|-|10% TIP;<br>5% WIP|
-|Gold|7.5% PMGOLD|6% PMGOLD |7% GOLD|8% GLD|6% GLD|
+|Gold|7.5% QAU |6% QAU |7% GOLD|8% GLD|6% GLD|
 |Commodities|7.5% QCB|6% QCB|6%  QCB|7% DBC|5% DBC|
 
 
