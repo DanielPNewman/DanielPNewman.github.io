@@ -16,7 +16,8 @@ font-size: 12px
 }
 </style>
 
-**How has our all-weather strategy held up so far in the COVID19 epidemic? An Update.** 
+**How has our all-weather strategy held up so far in the COVID19 epidemic?**<br> 
+**An Update** 
 
 A number of people have asked how our investment strategy - outlined in our August 2019 blog post called [Global “all-weather” portfolios - investment adventures of an Aussie couple][3] -  has fared in response to the covid19 epidemic.
 
