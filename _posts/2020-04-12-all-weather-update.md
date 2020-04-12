@@ -25,7 +25,7 @@ The August 2019 blog shared our research into a strategy designed to perform rel
 
 Rather than replying to each person individually, Amy and I decided we'd do 2 things: **1)** I'd write this update adding the latest data to the performance plots described in our [original blog post][3], to show how that has fared during the time since we first published it; and **2)** Amy would write a quick post showing **[our evolved solution executing an Environmental, Social, and Governance (ESG) filtered version of this strategy][6]**, as a single ESG portfolio diversified accross global geographies and risk balanced across asset classes.
 
-But here are the updated versions of the plots from our [original blog post][3] - with new data added to cover the 8 months since we published it: 
+But below are the updated versions of the plots from our [original blog post][3] - with new data added to cover the 8 months since we published it: 
 
 ## Domestic Australian assets - performance updates:
 
