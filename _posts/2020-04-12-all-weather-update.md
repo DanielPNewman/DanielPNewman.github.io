@@ -55,15 +55,15 @@ But below are the updated versions of the plots from our [original blog post][3]
 *Historical performance simulations of “Our Version” of an unleveraged global All-Weather portfolio show it had lower overall returns but also considerably smaller and less frequent drawdowns compared to 100% “Global Equities”. Although 100% global equities gave a higher overall return over a longer period, our time-horizon and needs currently favour limiting drawdowns over maximising returns. The relevant securities and weights for each of the portfolios depicted here are provided in Table 2 of our [original blog post][3].*<br>
 <sub>Note these simulated results do not include brokerage fees and assumes the desired portfolio balance is maintained throughout, whereas in practice, the portfolio would be rebalanced periodically. Simulated historical performance results have inherent limitations since unlike an actual performance record, simulations do not reflect the cost of trading or the impact of actual trades on market factors such as volume and liquidity.<sub>
 
-**An important point to reiterate is that the portfolios here are NOT the same as Bridgewater’s All-Weather.** Bridgewater uses cheap [leverage][5] and sophisticated investment instruments to increase returns while still minimizing risk. These simplified portfolios we show here do not use leverage and thus have **lower expected returns than Bridgewater's All-Weather, but still reduces risk compared to 100% equities.** 
+An important point to reiterate is that the portfolios here are NOT the same as Bridgewater’s All-Weather. Bridgewater uses cheap [leverage][5] and sophisticated investment instruments to increase returns while still minimizing risk. These simplified portfolios we show here do not use leverage and thus have lower expected returns than Bridgewater's All-Weather, but still reduces risk compared to 100% equities.
 
 ## Our continued evolution
 
 We wanted a single globally diversified portfolio filtered for [ESG][4]/ethical considerations and based upon the principles discussed here and in our [original blog post][3]...
 
-So now Amy and I can now share **[our evolved solution, executing a superior ESG filtered version of this strategy!][6]** 
+So now Amy and I can now share **[our evolved solution, executing an ESG filtered version of this strategy!][6]** 
 
-*Looking forward, we're still making good progress on figuring out how to cost-effectively leverage our lower volatility asset classes (e.g. the Treasury bonds) to have similar expected volatility/returns as equities, thus maintaining risk parity while increasing returns, like Bridgewater can. We are still ironing out more details around margin requirements, transaction costs, rebalancing, etc. and codifying our strategy into software, but it is looking very promising. So stay tuned for the future instalments!*
+Looking forward, we're still making good progress on figuring out how to cost-effectively leverage our lower volatility asset classes (e.g. the Treasury bonds) to have similar expected volatility/returns as equities, thus maintaining risk parity while increasing returns, like Bridgewater can. We are still ironing out more details around margin requirements, transaction costs, rebalancing, etc. and codifying our strategy into software, but it is looking very promising. So stay tuned for the future instalments!
 
 ***
 
