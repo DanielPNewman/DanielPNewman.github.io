@@ -61,7 +61,7 @@ An important point to reiterate is that the portfolios here are NOT the same as 
 
 We wanted a single globally diversified portfolio filtered for [ESG][4]/ethical considerations and based upon the principles discussed here and in our [original blog post][3]...
 
-So now Amy and I can now share **[our evolved solution, executing an ESG filtered version of this strategy!][6]** 
+So now Amy and I can share **[our evolved solution, executing an ESG filtered version of this strategy!][6]** 
 
 Looking forward, we're still making good progress on figuring out how to cost-effectively leverage our lower volatility asset classes (e.g. the Treasury bonds) to have similar expected volatility/returns as equities, thus maintaining risk parity while increasing returns, like Bridgewater can. We are still ironing out more details around margin requirements, transaction costs, rebalancing, etc. and codifying our strategy into software, but it is looking very promising. So stay tuned for the future instalments!
 
