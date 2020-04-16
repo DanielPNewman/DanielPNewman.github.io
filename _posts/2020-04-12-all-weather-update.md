@@ -16,14 +16,14 @@ font-size: 12px
 }
 </style>
 
-**How has our all-weather strategy held up so far in the COVID19 epidemic?**<br> 
+**How has our all-weather strategy held up so far in the COVID-19 epidemic?**<br> 
 **An Update** 
 
-A number of people have asked how our investment strategy - outlined in our August 2019 blog post called [Global “all-weather” portfolios - investment adventures of an Aussie couple][3] -  has fared in response to the covid19 epidemic.
+A number of people have asked how our investment strategy - outlined in our August 2019 blog post called [Global “all-weather” portfolios - investment adventures of an Aussie couple][3] -  has fared in response to the Covid-19 epidemic.
 
 The August 2019 blog shared our research into a strategy designed to perform relatively well in any economic environment. We are very glad that we did this research and took action based on our findings. It has served us well in these turbulent times!
 
-Rather than replying to each person individually, Amy and I decided we'd do 2 things: **1)** I'd write this update adding the latest data to the performance plots described in our [original blog post][3], to show how that has fared during the time since we first published it; and **2)** Amy would write a quick post showing **[our evolved solution executing an Environmental, Social, and Governance (ESG) filtered version of this strategy][6]**, as a single ESG portfolio diversified accross global geographies and risk balanced across asset classes.
+Rather than replying to each person individually, Amy and I decided we'd do 2 things: **1)** I'd write this update adding the latest data to the performance plots described in our [original blog post][3], to show how that has fared during the time since we first published it; and **2)** Amy would write a quick post showing **[our evolved solution executing an Environmental, Social, and Governance (ESG) filtered version of this strategy][6]** as a single ESG portfolio diversified across global geographies and risk balanced across asset classes.
 
 But below are the updated versions of the plots from our [original blog post][3] - with new data added to cover the 8 months since we published it: 
 
