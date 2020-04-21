@@ -7,7 +7,7 @@ layout: page
 ## Google Scholar
 [D. P. Newman][1]
 
-Brosnan, M., Sabaroedin, K., Silk, T., Genc, S., **Newman**, D. P., Loughnane, G, Fornito, A., O’Connell, R.G., Bellgrove, M.A. [Evidence accumulation during perceptual decisions in humans varies as a function of dorsal fronto-parietal organisation.][12] *Nature Human Behaviour*, (in press), DOI: 10.1038/s41562-020-0863-4
+Brosnan, M., Sabaroedin, K., Silk, T., Genc, S., **Newman**, D. P., Loughnane, G, Fornito, A., O’Connell, R.G., Bellgrove, M.A. (2020), [Evidence accumulation during perceptual decisions in humans varies as a function of dorsal fronto-parietal organisation.][12] *Nature Human Behaviour*, DOI: 10.1038/s41562-020-0863-4
 
 Kempen Jv, Loughnane G. M, **Newman** D. P, Kelly S. P, Thiele A, O’Connell R. G, and Bellgrove M. A. (2019). [Behavioural and neural signatures of perceptual decision-making are modulated by pupil-linked arousal.][11] *Elife*, 8, 1–
 43; doi: 10.7554/elife.42541
