@@ -55,5 +55,6 @@ Society for Neuroscience (Chicago, 20<sup>th</sup> of Oct 2015).  *Ocular exposu
  [9]: http://www.jneurosci.org/content/37/12/3378
  [10]: http://www.jneurosci.org/content/38/9/2163
  [11]: https://elifesciences.org/articles/42541
- [12]: https://www.nature.com/articles/s41562-020-0863-4
+ [12]: https://www.nature.com/articles/s41562-020-0863-4.epdf?sharing_token=E_qdL-mwslR6Bl90teuYCNRgN0jAjWel9jnR3ZoTv0MUSA2OmCqGbRHW_TbQL9VwKi7R7qeGyQ-VGien9hzjcgBAVjJmUpnGlaJC9Di2kCfykv2j927-XYqI_VLoKzqzTthSgni6VzTinupILTOs4XS6I7riteYTHtRlsDmAL_s%3D
+ 
  
