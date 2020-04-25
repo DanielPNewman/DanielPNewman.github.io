@@ -9,6 +9,8 @@ A list of books I’m enjoying, and have enjoyed reading in the past:
 
 ## Past great reads which I'd recommend
 
+  * **The Most Important Thing:** Uncommon Sense for the Thoughtful Investor, by *Howard Marks*
+
   * **The Man Who Solved the Market:** How Jim Simons Launched the Quant Revolution, by *Gregory Zuckerman*
 
   * **Thinking in Bets:** Making Smarter Decisions When You Don't Have All the Facts, by *Annie Duke*
