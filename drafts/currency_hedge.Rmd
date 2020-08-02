@@ -1,0 +1,110 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(readxl)
+library(httr)
+library(tidyquant)
+library(tidyverse)
+library(lubridate)
+
+# disable scientific notation
+options(scipen=999)
+
+# Set quandl API key
+quandl_api_key(Sys.getenv("QUANDL_KEY"))
+# Set alpha vantage API key
+av_api_key("") #################################
+
+
+tq_get("PERTH/GOLD_AUD_D", get = "quandl") 
+```
+
+## AUD vs USD Gold 
+```{r}
+
+AUD_USD <- read_csv("/Users/dnewman/projects/cpp-investment-engine/data/fx_rates/AUD_USD.csv")
+
+tq_get(c("GOLD.AX", "QAU.AX")) -> GOLD_QAU
+
+
+#start_date = "2019-08-05"
+
+start_date = "2020-01-08"
+
+AUD_USD %>%
+  filter(date >= start_date) %>%
+  mutate(date = as.Date(date)) %>%
+  mutate(cum_return = fx_rate) %>%
+  select(date, cum_return) %>%
+  mutate(signal = "AUD_USD") -> to_bind1
+
+gold_usd %>%
+  filter(date >= start_date) %>%
+  mutate(cum_return = cumprod(1 + simple_return) - 1) %>%
+  select(date, cum_return) %>%
+  mutate(signal = "gold_USD") -> to_bind2
+
+
+GOLD_QAU %>%
+  filter(date >= start_date) %>%
+  select(symbol, date, adjusted) %>%
+  filter(!is.na(adjusted)) %>%
+  arrange(date) %>%
+  group_by(symbol) %>%
+  mutate(simple_return = (adjusted/lag(adjusted) - 1)) %>%
+  mutate(simple_return = ifelse(is.na(simple_return), 0 , simple_return)) %>%
+  mutate(cum_return = cumprod(1 + simple_return) - 1) %>%
+  ungroup() %>%
+  mutate(signal = symbol) %>%
+  mutate(signal = ifelse(signal == "GOLD.AX", "PMGOLD.AX", signal)) %>%
+  select(date, cum_return, signal) %>%
+  bind_rows(to_bind1) %>%
+  ggplot(aes(x = date, y = cum_return, colour = signal)) +
+  geom_line() +
+  scale_x_date(date_breaks = "1 weeks") +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1,  scale = 100), n.breaks = 20) +
+  theme(axis.text.x=element_text(angle=60, hjust=1),
+        legend.title=element_blank()) +
+  labs(y = "", x = "")
+
+
+
+```
+
+
+## GVAD vs VGS
+```{r}
+start_date = "2019-01-13"
+
+read_csv("fx_rates/AUD_EUR.csv") %>%
+  filter(date >= start_date) %>%
+  mutate(date = as.Date(date)) %>%
+  mutate(cum_return = fx_rate) %>%
+  select(date, cum_return) %>%
+  mutate(signal = "AUD_EUR") -> to_bind3
+
+
+tq_get(c("VGAD.AX", "VGS.AX")) %>%
+  filter(date >= start_date) %>%
+  select(symbol, date, adjusted) %>%
+  filter(!is.na(adjusted)) %>%
+  arrange(date) %>%
+  group_by(symbol) %>%
+  mutate(simple_return = (adjusted/lag(adjusted) - 1)) %>%
+  mutate(simple_return = ifelse(is.na(simple_return), 0 , simple_return)) %>%
+  mutate(cum_return = cumprod(1 + simple_return) - 1) %>%
+  ungroup() %>%
+  mutate(signal = symbol) %>%
+  select(date, cum_return, signal) %>%
+  bind_rows(to_bind1, to_bind3) %>%
+  ggplot(aes(x = date, y = cum_return, colour = signal)) +
+  geom_line() +
+  scale_x_date(date_breaks = "2 weeks") +
+  theme(axis.text.x=element_text(angle=60, hjust=1))
+
+```
