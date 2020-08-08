@@ -4,12 +4,12 @@ permalink: /currently-reading/
 layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
-
-  * **Life 3.0:** Being Human in the Age of Artificial Intelligence, by *Max Tegmark*
   
   * **Accelerate:** The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, by *by Nicole Forsgren, Jez Humble and Gene Kim*
 
 ## Past great reads which I'd recommend
+	
+  * **Dark Towers:** Deutsche Bank, Donald Trump, and an Epic Trail of Destruction, by *David Enrich*	
 
   * **The Most Important Thing:** Uncommon Sense for the Thoughtful Investor, by *Howard Marks*
 
