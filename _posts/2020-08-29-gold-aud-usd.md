@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gold in 2020: thoughts on Gold/AUD/USD exposure via the ASX
+title: Gold in 2020 - thoughts on Gold/AUD/USD exposure via the ASX
 author: Daniel Newman
 description: Gold exposure via the ASX hedging AUD/USD
 ---
