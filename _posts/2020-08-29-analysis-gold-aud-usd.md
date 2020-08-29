@@ -2,7 +2,7 @@
 layout: post
 title: Gold in 2020: thoughts on Gold/AUD/USD exposure via the ASX
 author: Daniel Newman
-description: Gold exposure via the ASX without AUD/USD timing risk
+description: Gold exposure via the ASX hedging AUD/USD
 ---
 
 A neat way to hold gold via the ASX and also be impartial AUD/USD exchange rate timing, is to hold a split of half QAU half PMGOLD.  I lay out analysis and reasons.
