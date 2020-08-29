@@ -29,7 +29,4 @@ The final figure below shows the time period from the start of 2020 to now, but 
 
 ![]({{"/images/gold4.png"|absolute_url}})
 
-
-I’ll provide my code used to get/wrangle the data and make the figures [here](1).
-
-[1]: https://github.com/DanielPNewman/gold
+I’ll provide my code used to get/wrangle the data and make the figures here https://github.com/DanielPNewman/gold
