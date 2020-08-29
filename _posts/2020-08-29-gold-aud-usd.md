@@ -7,7 +7,7 @@ description: Gold exposure via the ASX hedging AUD/USD
 
 A neat way to hold gold via the ASX and also be impartial AUD/USD exchange rate timing, is to hold a split of half QAU half PMGOLD.  I lay out analysis and reasons.
 
-QAU and PMGOLD are ETFs that track the price of gold. The key difference between them is that QAU is hedged back to AUD, so when AUD strengthens QAU does relatively better than MPGOLD. On the other hand, PMGOLD is USD based, so when AUD falls against USD, PMGOLD does relatively better than QAU. 
+QAU and PMGOLD are ETFs that track the price of gold. The key difference between them is that QAU is hedged back to AUD, so when AUD strengthens QAU does relatively better than PMGOLD. On the other hand, PMGOLD is USD based, so when AUD falls against USD, PMGOLD does relatively better than QAU. 
 
 The plot below shows that these gold price tracking ETFs, either hedged to AUD (QAU.AX) or non-hedged (PMGOLD.AX) can perform very differently over time due to AUD/USD movements.  
 
