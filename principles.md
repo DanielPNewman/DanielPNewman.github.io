@@ -51,7 +51,7 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 	- ...and be humble/realistic about what your weaknesses are.
 
 ***
-- **organise to have unplugged focused time to think and read inspiring things.**
+- **Organise to have unplugged focused time to think and read inspiring things.**
 
 	-  usually when I take a long plane flight I come up with good ideas - this happens so often it cannot be due to chance and I think happens because the flight enforces unplugged focused time. So it is worth organising to have unplugged focused time
 
