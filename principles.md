@@ -4,7 +4,7 @@ permalink: /principles/
 layout: page
 ---
 
-I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of successfully dealing with reality to get what you want out of life". I also valued [Derek Sivers' directives][2] for how to get what you want. Both Ray and Derek make good arguments for everybody sharing their own principles and directives. I liked their reasoning so I've started sharing some principles and directives that resonate with me here. This is a living document that I will update with new things that I find useful. 
+I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of successfully dealing with reality to get what you want out of life". I also valued [Derek Sivers' directives][2] for how to get what you want. Both Ray and Derek make good arguments for everybody sharing their own principles and directives. I liked their reasoning so I've started sharing some principles and directives that resonate with me here. This is a living document that I will update with new things that I find useful.
 
 ***
 
@@ -49,6 +49,11 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 - **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**
 
 	- ...and be humble/realistic about what your weaknesses are.
+
+***
+- **organise to have unplugged focused time to think and read inspiring things.**
+
+	-  usually when I take a long plane flight I come up with good ideas - this happens so often it cannot be due to chance and I think happens because the flight enforces unplugged focused time. So it is worth organising to have unplugged focused time
 
 ## Principles from Ray Dalio that resonated with me:
 
@@ -143,6 +148,18 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 - **Work harder on yourself than you do on your job**
 
 	 - This leads to a better life, and compounds to give greater job performance and career improvement over time anyway. Got this idea from Tony Robbins.
+
+***
+- **You can disagree without being disagreeable**
+	- Ruth Bader Ginsburg
+
+***
+- **Fight for the things that you care about, but do it in a way that will lead others to join you**
+	- Ruth Bader Ginsburg
+
+***
+- **Anger, resentment, envy. These are emotions that just sap your energy. They’re not productive and don’t get you anyplace, so get over it**
+	- Ruth Bader Ginsburg
 
 [1]: https://www.principles.com/
 [2]: https://sivers.org/d1
