@@ -8,6 +8,8 @@ A list of books I’m enjoying, and have enjoyed reading in the past:
   * **Accelerate:** The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, by *by Nicole Forsgren, Jez Humble and Gene Kim*
 
 ## Past great reads which I'd recommend
+
+  * **The Land Before Avocado**, by *Richard Glover*
 	
   * **Dark Towers:** Deutsche Bank, Donald Trump, and an Epic Trail of Destruction, by *David Enrich*	
 
