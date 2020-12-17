@@ -46,11 +46,6 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 	- It is amazing to observe how much peoples' actions can differ in response to the same situation/circumstance. I have learnt it can be costly to assume others will behave the same as you given the same circumstance.
 
 ***	
-- **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**
-
-	- ...and be humble/realistic about what your weaknesses are.
-
-***
 - **Organise to have unplugged focused time to think and read inspiring things.**
 
 	-  usually when I take a long plane flight I come up with good ideas - this happens so often it cannot be due to chance and I think happens because the flight enforces unplugged focused time. So it is worth organising to have unplugged focused time
@@ -60,6 +55,11 @@ I learned a lot from [Ray Dalio's Principles][1], which he describes as "ways of
 - **Remember that in terms of wellbeing, the marginal benefits of being very wealthy (over and above comfortably having the basics - saftey, good relationships, good food, a comfortable bed, good sex) decrease the more wealth you get.**
 
 	- Ray Dalio has experienced having nothing to having an extreme amount of material success, and he observed this in his own life and wrote about it in his book Principles. It stood out to me as being important to remember, regardless of your level of material success.
+
+***
+- **Know your strengths and use them often. Know your weaknesses and partner with others who have complementary strengths.**
+
+	- ...and be humble/realistic about what your weaknesses are.
 
 ***
 - **Find out what your gifts are, then use them in a way that helps others, and also helps yourself, so that you stay motivated to keep going.**

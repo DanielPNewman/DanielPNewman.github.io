@@ -5,7 +5,7 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
   
-  * **Accelerate:** The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, by *by Nicole Forsgren, Jez Humble and Gene Kim*
+  * **Sapiens:** A Brief History of Humankind, by *Yuval Noah Harari*
 
 ## Past great reads which I'd recommend
 

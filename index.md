@@ -4,7 +4,7 @@ layout: page
 
 Below is a little personal info, and my blog is found in the menu (top left).
 
-I have just finished a 9.5 month trip vagabonding around Asia and South/Central America with my wife [Amy][2]:
+A photo of me and my wife [Amy][2] during our time vagabonding around Asia and South/Central America for 9.5 months before covid19 took hold:
 
 {% include figure.html src="public/images/IMG_5834.jpg" %}
 
@@ -83,6 +83,7 @@ To help, I created a high level personal “mission statement” as a guiding �
 
 1. Ensure my family is happier for my presence than my absence.
 2. Act to either improve the world or at least cause no harm.
+3. Savour each moment of life for what it is. 
 
 **To help with my mission/s I will aim to do the following:**
 
