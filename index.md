@@ -81,9 +81,7 @@ To help, I created a high level personal “mission statement” as a guiding �
 
 **My mission is to:**
 
-1. Ensure my family is happier for my presence than my absence.
-2. Act to improve the world.
-3. Savour each moment of life for what it is. 
+Look after myself so that I'm able to look after my family and together we can act to have a good impact on the world.
 
 **To help with my mission/s I will aim to do the following:**
 
