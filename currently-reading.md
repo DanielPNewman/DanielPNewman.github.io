@@ -5,9 +5,11 @@ layout: page
 ---
 A list of books I’m enjoying, and have enjoyed reading in the past:
   
-  * **Sapiens:** A Brief History of Humankind, by *Yuval Noah Harari*
+  * **Principles for Dealing with the Changing World Order:** Why Nations Succeed or Fail, by *Ray Dalio*
 
 ## Past great reads which I'd recommend
+
+  * **Sapiens:** A Brief History of Humankind, by *Yuval Noah Harari*
 
   * **The Land Before Avocado**, by *Richard Glover*
 	
