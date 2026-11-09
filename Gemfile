@@ -5,10 +5,13 @@ ruby '>= 3.0'
 gem 'base64', '~> 0.3'
 gem 'bigdecimal', '~> 4.0'
 gem 'csv', '~> 3.3'
+gem 'addressable', '~> 2.9', '>= 2.9.1'
 gem 'jekyll', '~> 3.9.3'
 gem 'jekyll-paginate', '~> 1.1'
-gem 'jekyll-redirect-from', '~> 0.16'
-gem 'jekyll-seo-tag', '~> 2.8'
+# GHSA-xfg6-hjrc-hpv is fixed in jekyll-redirect-from 0.17.0.
+gem 'jekyll-redirect-from', '~> 0.17', '>= 0.17.0'
+# GHSA-572m-7cg5-6j5r is fixed in jekyll-seo-tag 2.9.1.
+gem 'jekyll-seo-tag', '~> 2.9', '>= 2.9.1'
 gem 'jekyll-sitemap', '~> 1.4'
 gem 'kramdown-parser-gfm', '~> 1.1'
 # Jekyll 3.9 requires these libraries explicitly on Ruby 3.4+.

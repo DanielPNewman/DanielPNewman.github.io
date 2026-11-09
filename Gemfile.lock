@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.9.0)
+    addressable (2.9.2)
       public_suffix (>= 2.0.2, < 8.0)
     base64 (0.3.0)
     bigdecimal (4.1.3)
@@ -31,11 +31,11 @@ GEM
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
     jekyll-paginate (1.1.0)
-    jekyll-redirect-from (0.16.0)
+    jekyll-redirect-from (0.17.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.8.0)
+    jekyll-seo-tag (2.9.1)
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
@@ -72,14 +72,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  addressable (~> 2.9, >= 2.9.1)
   base64 (~> 0.3)
   bigdecimal (~> 4.0)
   concurrent-ruby (~> 1.3, >= 1.3.7)
   csv (~> 3.3)
   jekyll (~> 3.9.3)
   jekyll-paginate (~> 1.1)
-  jekyll-redirect-from (~> 0.16)
-  jekyll-seo-tag (~> 2.8)
+  jekyll-redirect-from (~> 0.17, >= 0.17.0)
+  jekyll-seo-tag (~> 2.9, >= 2.9.1)
   jekyll-sitemap (~> 1.4)
   json (~> 2.21, >= 2.21.2)
   kramdown-parser-gfm (~> 1.1)
