@@ -22,7 +22,7 @@ author:
 
 
 # Excludes
-exclude: [".editorconfig", ".gitignore", "CNAME", "Gemfile", "Gemfile.lock", "README.md"]
+exclude: [".editorconfig", ".gitignore", "CNAME", "Gemfile", "Gemfile.lock", "README.md", "vendor"]
 
 plugins:
   - jekyll-sitemap
